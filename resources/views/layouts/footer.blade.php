@@ -1,3 +1,20 @@
+<style>
+    .logo-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        padding: 20px;
+        margin-bottom: 40px;
+    }
+
+    .logo-container img {
+        max-width: 100px;
+        height: auto;
+        opacity: 0.3;
+    }
+</style>
+
 <!-- ======= Footer ======= -->
 <footer id="footer">
 
@@ -7,16 +24,14 @@
 
             <div class="row  justify-content-center">
                 <div class="col-lg-6">
-                    <h3>Remember</h3>
-                    <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+                    <h3>Desa Kismoyoso</h3>
+                    <p>Desa Kismoyoso, Ngemplak, Boyolali, Jawa Tengah 57375</p>
                 </div>
             </div>
 
             <div class="row footer-newsletter justify-content-center">
                 <div class="col-lg-6">
-                    <form action="" method="post">
-                        <input type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
-                    </form>
+
                 </div>
             </div>
 
@@ -32,9 +47,19 @@
     </div>
 
     <div class="container footer-bottom clearfix">
-        <div class="copyright">
-            &copy; Copyright <strong><span>Remember</span></strong>. All Rights Reserved
+        <div class="logo-container">
+            <img src="{{ asset('assets/img/logo-boyolali.png') }}" style="height: 50px; width: 40px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-uns-full.png') }}" style="height: 50px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-kampus-merdeka.png') }}" style="height: 50px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-merdeka-belajar.png') }}" style="height: 50px;" alt="Logo 1">
+            <!-- <img src="{{ asset('assets/img/logo-37.png') }}" style="height: 50px;" alt="Logo 1"> -->
         </div>
+
+        <!-- PERHATIAN: JANGAN DI-EDIT! (PLEASE DO NOT EDIT) -->
+        <div class="copyright">
+            &copy; Copyright <strong><span>Tim Informatika KKN UNS Membangun Desa Kismoyoso 2024</span></strong>. All Rights Reserved
+        </div>
+
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->

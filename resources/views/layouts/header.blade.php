@@ -2,10 +2,9 @@
 <header id="header" class="d-flex align-items-center">
     <div class="container d-flex justify-content-between">
 
-        <div class="logo">
-            <h1 class="text-light"><a href="index.html">Remember</a></h1>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <div class="logo" style="display: flex; align-items: center;">
+            <a href="index.html" style="margin-right: 10px;"><img src="{{ asset('assets/img/logo-boyolali.png') }}" alt="" class="img-fluid"></a>
+            <h1 class="text-light" style="margin: 0;"><a href="index.html">Desa Kismoyoso</a></h1>
         </div>
 
         <nav id="navbar" class="navbar">

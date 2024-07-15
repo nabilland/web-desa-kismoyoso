@@ -11,7 +11,7 @@ Route::get('/', function () {
 });
 
 Route::get('/innerpage', function () {
-    return view('innerpage');
+    return view('menu.innerpage');
 });
 
 Route::get('/details', function () {
