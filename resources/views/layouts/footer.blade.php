@@ -25,7 +25,7 @@
             <div class="row  justify-content-center">
                 <div class="col-lg-6">
                     <h3>Desa Kismoyoso</h3>
-                    <p>Desa Kismoyoso, Ngemplak, Boyolali, Jawa Tengah 57375</p>
+                    <p>Jl. Raya Kismoyoso, Kecamatan Ngemplak, Kabupaten Boyolali, Provinsi Jawa Tengah, Indonesia 57375</p>
                 </div>
             </div>
 

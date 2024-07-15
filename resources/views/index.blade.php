@@ -44,7 +44,12 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#team">Kegiatan</a></li>
+                    <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="#">Kebun Gizi</a></li>
+                            <li><a href="#">Posyandu</a></li>
+                        </ul>
+                    </li>
                     <li class="dropdown"><a href="#"><span>Tentang Desa</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Sejarah</a></li>
@@ -92,26 +97,30 @@
 
                     <div class="col-xl-6 col-lg-6 d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
                         <div class="box-heading" data-aos="fade-up">
-                            <h4>About us</h4>
-                            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-                            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+                            <h4>Tentang Desa</h4>
+                            <h3>Desa Kismoyoso: Sejarah, Potensi, dan Kearifan Lokal</h3>
+                            <p>
+                                Desa Kismoyoso terletak di Kecamatan Ngemplak, Kabupaten Boyolali, Jawa Tengah.
+                                Desa ini dikenal dengan keindahan alamnya, suasana yang tenang, serta masyarakatnya yang ramah dan gotong royong.
+                                Sebagai salah satu desa yang berkembang di Kabupaten Boyolali, Kismoyoso menawarkan berbagai potensi dan peluang yang dapat dikembangkan untuk kesejahteraan masyarakatnya.
+                            </p>
                         </div>
 
                         <div class="icon-box" data-aos="fade-up">
-                            <div class="icon"><i class="bx bx-fingerprint"></i></div>
-                            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+                            <div class="icon"><i class="bx bx-book"></i></div>
+                            <h4 class="title"><a href="">Sejarah</a></h4>
                             <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                         </div>
 
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                            <div class="icon"><i class="bx bx-gift"></i></div>
-                            <h4 class="title"><a href="">Nemo Enim</a></h4>
+                            <div class="icon"><i class="bx bx-leaf"></i></div>
+                            <h4 class="title"><a href="">Potensi</a></h4>
                             <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
                         </div>
 
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-atom"></i></div>
-                            <h4 class="title"><a href="">Dine Pad</a></h4>
+                            <h4 class="title"><a href="">Kearifan Lokal</a></h4>
                             <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
                         </div>
 
@@ -167,27 +176,26 @@
             <div class="container">
 
                 <div class="row counters">
-
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Clients</p>
+                        <span data-purecounter-start="0" data-purecounter-end="9043" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Jumlah Penduduk (Jiwa)</p>
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Projects</p>
+                        <span data-purecounter-start="0" data-purecounter-end="3779" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Luas Wilayah (km<sup>2</sup>)</p>
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Hours Of Support</p>
+                        <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Jumlah Dusun</p>
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Hard Workers</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Prestasi Desa</p>
                     </div>
-
+                    <p style="text-align: center; margin-top: 20px; font-size: 9pt; font-weight: bold;"><sup>(*)</sup> Berdasarkan Data Badan Pusat Statistik (BPS) Kabupaten Boyolali Tahun YYYY</p>
                 </div>
 
             </div>
@@ -198,9 +206,9 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3>Call To Action</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    <a class="cta-btn" href="#">Call To Action</a>
+                    <h3>KAGA TAU INI DIISI APA</h3>
+                    <p>Kita remaja yang sedang dimabuk proker KKN</p>
+                    <a class="cta-btn" href="#">Kunjungi</a>
                 </div>
 
             </div>
@@ -275,16 +283,16 @@
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
-                    <h2>Portfolio</h2>
-                    <h3>Check our <span>Portfolio</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+                    <h2>UMKM (Usaha Mikro, Kecil, dan Menengah)</h2>
+                    <h3><span>UMKM</span> Desa Kismoyoso</h3>
+                    <p>Desa Kismoyoso memiliki berbagai UMKM yang berkembang, menghasilkan beragam produk lokal berkualitas, dan berkontribusi terhadap perekonomian desa.</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up">
                         <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-app">App</li>
+                            <li data-filter="*" class="filter-active">Semuanya</li>
+                            <li data-filter=".filter-app"></li>
                             <li data-filter=".filter-card">Card</li>
                             <li data-filter=".filter-web">Web</li>
                         </ul>
@@ -693,9 +701,9 @@
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
-                    <h2>Contact</h2>
-                    <h3>Check our <span>Contact</span> Details</h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+                    <h2>Kontak</h2>
+                    <h3>Informasi <span>Kontak</span> Desa Kismoyoso</h3>
+                    <p>Untuk pertanyaan, saran, atau informasi Desa Kismoyoso lebih lanjut, silakan hubungi kami melalui kontak di bawah ini.</p>
                 </div>
 
                 <div>
@@ -708,8 +716,8 @@
                         <div class="info">
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
-                                <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <h4>Lokasi:</h4>
+                                <p>Jl. Raya Kismoyoso, Kecamatan Ngemplak, Kabupaten Boyolali, Provinsi Jawa Tengah, Indonesia 57375</p>
                             </div>
 
                             <div class="email">
@@ -720,38 +728,11 @@
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
-                                <h4>Call:</h4>
+                                <h4>Telepon:</h4>
                                 <p>+1 5589 55488 55s</p>
                             </div>
 
                         </div>
-
-                    </div>
-
-                    <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
-
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                            <div class="row">
-                                <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                                </div>
-                                <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                                </div>
-                            </div>
-                            <div class="form-group mt-3">
-                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-                            </div>
-                            <div class="form-group mt-3">
-                                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-                            </div>
-                            <div class="my-3">
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
-                            </div>
-                            <div class="text-center"><button type="submit">Send Message</button></div>
-                        </form>
 
                     </div>
 
