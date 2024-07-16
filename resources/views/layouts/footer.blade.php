@@ -48,10 +48,10 @@
 
     <div class="container footer-bottom clearfix">
         <div class="logo-container">
-            <img src="{{ asset('assets/img/logo-boyolali.png') }}" style="height: 50px; width: 40px;" alt="Logo 1">
-            <img src="{{ asset('assets/img/logo-uns-full.png') }}" style="height: 50px;" alt="Logo 1">
-            <img src="{{ asset('assets/img/logo-kampus-merdeka.png') }}" style="height: 50px;" alt="Logo 1">
-            <img src="{{ asset('assets/img/logo-merdeka-belajar.png') }}" style="height: 50px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-boyolali.png') }}" style="height: 35px; width: 30px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-uns-full.png') }}" style="height: 35px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-kampus-merdeka.png') }}" style="height: 35px;" alt="Logo 1">
+            <img src="{{ asset('assets/img/logo-merdeka-belajar.png') }}" style="height: 35px;" alt="Logo 1">
             <!-- <img src="{{ asset('assets/img/logo-37.png') }}" style="height: 50px;" alt="Logo 1"> -->
         </div>
 

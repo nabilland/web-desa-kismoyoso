@@ -30,11 +30,10 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
-                    <li><a class="nav-link scrollto" href="#about">Tentang Desa</a></li>
                     <li class="dropdown"><a href="#"><span>Potensi</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Pertanian</a></li>
-                            <li><a href="#">Radar Pesawat</a></li>
+                            <li><a href="#">Perkebunan</a></li>
                             <li class="dropdown"><a href="#"><span>UMKM Unggulan</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="#">Jamu Gendong</a></li>
@@ -44,17 +43,27 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a href="#">Kebun Gizi</a></li>
-                            <li><a href="#">Posyandu</a></li>
-                        </ul>
-                    </li>
                     <li class="dropdown"><a href="#"><span>Tentang Desa</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Sejarah</a></li>
                             <li><a href="#">Visi & Misi</a></li>
                             <li><a href="#">Struktur Pemerintahan</a></li>
+                            <li class="dropdown"><a href="#"><span>Infrastruktur</span> <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="#">Radar Pesawat</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown"><a href="#"><span>Fasilitas</span> <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="#">Sekolah</a></li>
+                                    <li><a href="#">Pusat Kesehatan</a></li>
+                                    <li><a href="#">Taman</a></li>
+                                    <li><a href="#">Tempat Ibadah</a></li>
+                                    <li><a href="#">Pusat Olahraga</a></li>
+                                    <li><a href="#">Perpustakaan</a></li>
+                                    <li><a href="#">Pasar</a></li>
+                                </ul>
+                            </li>
                             <li><a href="#">Informasi Geografis</a></li>
                             <li class="dropdown"><a href="#"><span>Informasi Penduduk</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
@@ -67,6 +76,13 @@
                             </li>
                         </ul>
                     </li>
+                    <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="#">Kebun Gizi</a></li>
+                            <li><a href="#">Posyandu</a></li>
+                        </ul>
+                    </li>
+                    <li><a class="nav-link scrollto" href="#">Berita</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -97,7 +113,7 @@
 
                     <div class="col-xl-6 col-lg-6 d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
                         <div class="box-heading" data-aos="fade-up">
-                            <h4>Tentang Desa</h4>
+                            <h4>Sekilas Tentang Desa</h4>
                             <h3>Desa Kismoyoso: Sejarah, Potensi, dan Kearifan Lokal</h3>
                             <p>
                                 Desa Kismoyoso terletak di Kecamatan Ngemplak, Kabupaten Boyolali, Jawa Tengah.
@@ -107,21 +123,21 @@
                         </div>
 
                         <div class="icon-box" data-aos="fade-up">
-                            <div class="icon"><i class="bx bx-book"></i></div>
+                            <div class="icon"><i class="bx bx-history"></i></div>
                             <h4 class="title"><a href="">Sejarah</a></h4>
-                            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                            <p class="description">Nama "Kismoyoso" berasal dari kata "Kismo" yang berarti tanah atau bumi dan "Yoso" yang berarti berjaya atau makmur. </p>
                         </div>
 
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bx-leaf"></i></div>
                             <h4 class="title"><a href="">Potensi</a></h4>
-                            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                            <p class="description">Potensi yang luar biasa, mencakup sektor pertanian, kerajinan tangan, kuliner, hingga produk olahan.</p>
                         </div>
 
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                            <div class="icon"><i class="bx bx-atom"></i></div>
+                            <div class="icon"><i class="bx bx-world"></i></div>
                             <h4 class="title"><a href="">Kearifan Lokal</a></h4>
-                            <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                            <p class="description">Kearifan lokal tercermin dalam adat istiadat, gotong royong, seni dan budaya, pengelolaan sumber daya alam yang berkelanjutan, serta kehidupan beragama yang harmonis.</p>
                         </div>
 
                     </div>
@@ -129,47 +145,6 @@
 
             </div>
         </section><!-- End About Section -->
-
-        <!-- ======= Why Us Section ======= -->
-        <section id="why-us" class="why-us">
-            <div class="container">
-
-                <div class="section-title" data-aos="zoom-in">
-                    <h2>Why Us</h2>
-                    <h3>Why you shoud <span>choose us</span>?</h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-4">
-                        <div class="box" data-aos="fade-up">
-                            <span>01</span>
-                            <h4>Lorem Ipsum</h4>
-                            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0">
-                        <div class="box" data-aos="fade-up" data-aos-delay="100">
-                            <span>02</span>
-                            <h4>Repellat Nihil</h4>
-                            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                        <div class="box">
-                            <span>03</span>
-                            <h4> Ad ad velit qui</h4>
-                            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Why Us Section -->
 
         <!-- ======= Counts Section ======= -->
         <section id="counts" class="counts">
@@ -206,9 +181,9 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3>KAGA TAU INI DIISI APA</h3>
-                    <p>Kita remaja yang sedang dimabuk proker KKN</p>
-                    <a class="cta-btn" href="#">Kunjungi</a>
+                    <h3>Potensi Desa</h3>
+                    <p>Temukan berbagai potensi luar biasa Desa Kismoyoso</p>
+                    <a class="cta-btn" href="#">Temukan</a>
                 </div>
 
             </div>
@@ -219,16 +194,16 @@
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
-                    <h2>Services</h2>
-                    <h3>Our Awesome <span>Services</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+                    <h2>Layanan</h2>
+                    <h3><span>Layanan</span> Pemerintahan</h3>
+                    <p>Berbagai layanan pemerintahan untuk mempermudah kebutuhan administrasi dan pelayanan publik.</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                         <div class="icon-box" data-aos="zoom-in">
-                            <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="">Lorem Ipsum</a></h4>
+                            <div class="icon"><i class="bx bx-book-open"></i></div>
+                            <h4><a href="">Administrasi Kependudukan</a></h4>
                             <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
                         </div>
                     </div>
@@ -236,7 +211,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4><a href="">Sed ut perspiciatis</a></h4>
+                            <h4><a href="">Perizinan</a></h4>
                             <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
                         </div>
                     </div>
@@ -244,7 +219,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="">Magni Dolores</a></h4>
+                            <h4><a href="">Sosial</a></h4>
                             <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
                         </div>
                     </div>
@@ -252,7 +227,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-world"></i></div>
-                            <h4><a href="">Nemo Enim</a></h4>
+                            <h4><a href="">Pengaduan Masyarakat</a></h4>
                             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
                         </div>
                     </div>
@@ -260,7 +235,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-slideshow"></i></div>
-                            <h4><a href="">Dele cardo</a></h4>
+                            <h4><a href="">Informasi Publik</a></h4>
                             <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
                         </div>
                     </div>
@@ -268,7 +243,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="500">
                             <div class="icon"><i class="bx bx-arch"></i></div>
-                            <h4><a href="">Divera don</a></h4>
+                            <h4><a href="">Pembangunan Desa</a></h4>
                             <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
                         </div>
                     </div>
@@ -291,10 +266,10 @@
                 <div class="row">
                     <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up">
                         <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">Semuanya</li>
-                            <li data-filter=".filter-app"></li>
-                            <li data-filter=".filter-card">Card</li>
-                            <li data-filter=".filter-web">Web</li>
+                            <li data-filter="*" class="filter-active">Semua</li>
+                            <li data-filter=".filter-app">Mikro</li>
+                            <li data-filter=".filter-card">Kecil</li>
+                            <li data-filter=".filter-web">Menengah</li>
                         </ul>
                     </div>
                 </div>
@@ -302,31 +277,31 @@
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-1.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                            <h4>Jamu Gendong</h4>
+                            <p>Kuliner</p>
+                            <a href="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-2.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/dummy/tauge.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <h4>Tauge</h4>
+                            <p>Pertanian & Perkebunan</p>
+                            <a href="{{ asset('assets/img/dummy/tauge.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-3.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('assets/img/dummy/tahu.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+                            <h4>Tahu</h4>
+                            <p>Kuliner</p>
+                            <a href="{{ asset('assets/img/dummy/tahu.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -396,251 +371,14 @@
             </div>
         </section><!-- End Portfolio Section -->
 
-        <!-- ======= Team Section ======= -->
-        <section id="team" class="team">
-            <div class="container">
-
-                <div class="section-title" data-aos="zoom-in">
-                    <h2>Team</h2>
-                    <h3>Our Hard Working <span>Team</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up">
-                            <div class="member-img">
-                                <img src="{{ asset('assets/img/team/team-1.jpg') }}" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="100">
-                            <div class="member-img">
-                                <img src="{{ asset('assets/img/team/team-2.jpg') }}" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
-                                <span>Product Manager</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="200">
-                            <div class="member-img">
-                                <img src="{{ asset('assets/img/team/team-3.jpg') }}" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>William Anderson</h4>
-                                <span>CTO</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="300">
-                            <div class="member-img">
-                                <img src="{{ asset('assets/img/team/team-4.jpg') }}" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Amanda Jepson</h4>
-                                <span>Accountant</span>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Team Section -->
-
-        <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials">
-            <div class="container">
-
-                <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="{{ asset('assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
-                                <h3>Saul Goodman</h3>
-                                <h4>Ceo &amp; Founder</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="{{ asset('assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
-                                <h3>Sara Wilsson</h3>
-                                <h4>Designer</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="{{ asset('assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
-                                <h3>Jena Karlis</h3>
-                                <h4>Store Owner</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="{{ asset('assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
-                                <h3>Matt Brandon</h3>
-                                <h4>Freelancer</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="{{ asset('assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
-                                <h3>John Larson</h3>
-                                <h4>Entrepreneur</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section><!-- End Testimonials Section -->
-
-        <!-- ======= Pricing Section ======= -->
-        <section id="pricing" class="pricing">
-            <div class="container">
-
-                <div class="section-title" data-aos="zoom-in">
-                    <h2>Pricing</h2>
-                    <h3>Check our <span>Pricing</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-4 col-md-6">
-                        <div class="box" data-aos="zoom-in" data-aos-delay="200">
-                            <h3>Free</h3>
-                            <h4><sup>$</sup>0<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li class="na">Pharetra massa</li>
-                                <li class="na">Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-                        <div class="box recommended" data-aos="zoom-in" data-aos-delay="100">
-                            <span class="recommended-badge">Recommended</span>
-                            <h3>Business</h3>
-                            <h4><sup>$</sup>19<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li>Pharetra massa</li>
-                                <li class="na">Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-                        <div class="box" data-aos="zoom-in" data-aos-delay="200">
-                            <h3>Developer</h3>
-                            <h4><sup>$</sup>29<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li>Pharetra massa</li>
-                                <li>Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Pricing Section -->
-
         <!-- ======= F.A.Q Section ======= -->
         <section id="faq" class="faq">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
                     <h2>F.A.Q</h2>
-                    <h3>Frequently Asked <span>Questions</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+                    <h3><span>Pertanyaan</span> Yang Sering Diajukan</h3>
+                    <p>Di sini Anda dapat menemukan jawaban atas pertanyaan-pertanyaan yang sering diajukan tentang Desa Kismoyoso.</p>
                 </div>
 
                 <div class="faq-list">
