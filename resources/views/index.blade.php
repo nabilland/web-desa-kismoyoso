@@ -34,9 +34,9 @@
                         <ul>
                             <li><a href="#">Pertanian</a></li>
                             <li><a href="#">Perkebunan</a></li>
-                            <li class="dropdown"><a href="#"><span>UMKM Unggulan</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a href="#"><span>UMKM</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
-                                    <li><a href="#">Jamu Gendong</a></li>
+                                    <li><a href="{{ route('jamu-gendong') }}">Jamu Gendong</a></li>
                                     <li><a href="#">Tahu</a></li>
                                     <li><a href="#">Tauge</a></li>
                                 </ul>
@@ -83,6 +83,7 @@
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#">Berita</a></li>
+                    <li><a class="nav-link scrollto" href="#portfolio">UMKM</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -282,7 +283,7 @@
                             <h4>Jamu Gendong</h4>
                             <p>Kuliner</p>
                             <a href="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="{{ route('jamu-gendong') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 
