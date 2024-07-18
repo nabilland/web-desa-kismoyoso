@@ -48,18 +48,36 @@
                         <li><strong>Produk Unggulan</strong>: Jamu</li>
                         <li><strong>Pemilik</strong>: John Doe</li>
                         <li><strong>Tahun Berdiri</strong>: 01 March, 2020</li>
-                        <li><strong>Lokasi</strong>:
-                        <a target="_blank" href="https://maps.app.goo.gl/aAhqAjLrdufsVKbc9">
-                        <button class="green-button">Lihat</button></a>
-                        </li>
-                        <li><strong>Kontak</strong>: <a href="#">www.example.com</a></li>
+                        <div class="d-flex">
+                            <li><strong>Lokasi</strong>:
+                                <a target="_blank" href="https://maps.app.goo.gl/aAhqAjLrdufsVKbc9">
+                                    <button class="green-button">
+                                        <i class="bx bx-map-pin" style="padding-right:2px"></i>
+                                        Lihat Peta</button>
+                                </a>
+                            </li>
+                        </div>
+                        <div class="d-flex">
+                            <li><strong>Kontak</strong>:
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285647904529">
+                                    <button class="green-button">
+                                        <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
+                                        Chat via WhatsApp</button>
+                                </a>
+                                <a href="tel:6285647904529">
+                                    <button class="green-button">
+                                        <i class="bx bx-phone" style="padding-right:2px"></i>
+                                        Hubungi</button>
+                                </a>
+                            </li>
+                        </div>
                         <li><strong>Prestasi</strong>: UMKM Unggulan</li>
                     </ul>
                     <h3 style="padding-top:20px;">Informasi Paguyuban UMKM</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
-                                Lihat Informasi Selengkapnya
+                            Lihat Informasi Selengkapnya
                         </button>
                     </div>
                 </div>
