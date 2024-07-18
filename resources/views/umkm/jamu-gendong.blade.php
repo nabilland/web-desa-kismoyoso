@@ -48,7 +48,10 @@
                         <li><strong>Produk Unggulan</strong>: Jamu</li>
                         <li><strong>Pemilik</strong>: John Doe</li>
                         <li><strong>Tahun Berdiri</strong>: 01 March, 2020</li>
-                        <li><strong>Lokasi</strong>: https://maps.app.goo.gl/aAhqAjLrdufsVKbc9</li>
+                        <li><strong>Lokasi</strong>:
+                        <a target="_blank" href="https://maps.app.goo.gl/aAhqAjLrdufsVKbc9">
+                        <button class="green-button">Lihat</button></a>
+                        </li>
                         <li><strong>Kontak</strong>: <a href="#">www.example.com</a></li>
                         <li><strong>Prestasi</strong>: UMKM Unggulan</li>
                     </ul>
@@ -56,7 +59,7 @@
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
-                                Lihat Selengkapnya
+                                Lihat Informasi Selengkapnya
                         </button>
                     </div>
                 </div>
