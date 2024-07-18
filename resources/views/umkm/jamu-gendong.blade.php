@@ -42,8 +42,9 @@
                     <h3>Informasi UMKM</h3>
                     <ul>
                         <li><strong>Nama Usaha</strong>: Jamu Gendong</li>
-                        <li><strong>Jenis Usaha</strong>: Menengah</li>
-                        <li><strong>Kategori Produk</strong>: Kuliner</li>
+                        <li><strong>Jenis Kegiatan Usaha</strong>: Menengah</li>
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Pangan dan Minuman</li>
+                        <li><strong>Kategori Produk</strong>: Minuman Kesehatan, Produk Herbal, atau Minuman Tradisional</li>
                         <li><strong>Produk Unggulan</strong>: Jamu</li>
                         <li><strong>Pemilik</strong>: John Doe</li>
                         <li><strong>Tahun Berdiri</strong>: 01 March, 2020</li>
@@ -51,16 +52,24 @@
                         <li><strong>Kontak</strong>: <a href="#">www.example.com</a></li>
                         <li><strong>Prestasi</strong>: UMKM Unggulan</li>
                     </ul>
-                </div>
-                <div class="portfolio-description">
-                    <h2>Jamu Gendong XYZ</h2>
-                    <p>
-                        Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-                    </p>
+                    <h3 style="padding-top:20px;">Informasi Paguyuban UMKM</h3>
+                    <div class="d-flex">
+                        <button class="green-button">
+                            <i class="bx bx-info-circle" style="padding-right:2px"></i>
+                                Lihat Selengkapnya
+                        </button>
+                    </div>
                 </div>
             </div>
-
+            <div class="portfolio-description">
+                <h2>Jamu Gendong XYZ</h2>
+                <p>
+                    Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                </p>
+            </div>
         </div>
+
+    </div>
 
     </div>
 </section><!-- End Portfolio Details Section -->

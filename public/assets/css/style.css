@@ -36,6 +36,17 @@ h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+.green-button {
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border-radius:20px;
+  border-color:transparent;
+  background-color:#8fc04e;
+  color:white;
+}
+
 .back-to-top {
   position: fixed;
   visibility: hidden;
