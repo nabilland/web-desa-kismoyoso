@@ -10,11 +10,11 @@
 
 @section('contents')
 <section class="inner-page">
-    <div class="container">
+    <div class="container grey-block p-3">
         <h5 style="font-weight: bold">Visi</h5>
         <p>Terwujudnya sistem pemerintahan yang efektif sehingga mampu meningkatkan pelayanan dan kesejahteraan masyarakat.</p>
     </div>
-    <div class="container mt-4">
+    <div class="container grey-block p-3 mt-4">
         <h5 style="font-weight: bold">Misi</h5>
         <ol type="a">
             <li>Penyelenggaraan pemerintahan yang efektif dan efisien.</li>

@@ -43,12 +43,16 @@ Route::get('/potensi/pertanian', function () {
 })->name('potensi-pertanian');
 
 // UMKM
-Route::get('/jamu-gendong', function () {
+Route::get('/#portfolio', function () {
+})->name('umkm');
+Route::get('/umkm/jamu-gendong', function () {
     return view('umkm.jamu-gendong');
 })->name('jamu-gendong');
 
 // ABOUT DESA
-Route::get('/visi-misi', function () {
+Route::get('/tentang-desa/visi-misi', function () {
     return view('about.visimisi');
 })->name('visi-misi');
-
+Route::get('/tentang-desa/struktur-pemerintahan', function () {
+    return view('about.struktur');
+})->name('struktur');

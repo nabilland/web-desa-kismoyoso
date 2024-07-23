@@ -481,7 +481,7 @@ rect.legend-mouseover-inactive,
 .apexcharts-canvas .apexcharts-reset-zoom-icon.apexcharts-selected svg,
 .apexcharts-canvas .apexcharts-selection-icon.apexcharts-selected svg,
 .apexcharts-canvas .apexcharts-zoom-icon.apexcharts-selected svg {
-  fill: #008ffb
+  fill: #8fc04e
 }
 
 .apexcharts-theme-light .apexcharts-menu-icon:hover svg,
@@ -531,7 +531,7 @@ rect.legend-mouseover-inactive,
 }
 
 .apexcharts-pan-icon.apexcharts-selected svg {
-  stroke: #008ffb
+  stroke: #8fc04e
 }
 
 .apexcharts-pan-icon:not(.apexcharts-selected):hover svg {

@@ -48,6 +48,11 @@ h6 {
   color:white;
 }
 
+.grey-block {
+  background-color: #e9f3dd;
+  border-radius: 20px;
+}
+
 .back-to-top {
   position: fixed;
   visibility: hidden;

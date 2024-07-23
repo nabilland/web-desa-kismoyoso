@@ -12,9 +12,9 @@
                     <li><a class="nav-link scrollto active" href="{{ url('/') }}">Beranda</a></li>
                     <li class="dropdown"><a href="#"><span>Potensi</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="#">Pertanian</a></li>
+                            <li><a href="{{ route('potensi-pertanian') }}">Pertanian</a></li>
                             <li><a href="#">Perkebunan</a></li>
-                            <li class="dropdown"><a class="nav-link scrollto" href="#portfolio"><span>UMKM</span> <i class="bi bi-chevron-right"></i></a>
+                            <li class="dropdown"><a class="nav-link scrollto" href="{{ route('umkm') }}"><span>UMKM</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="{{ route('jamu-gendong') }}">Jamu Gendong</a></li>
                                     <li><a href="#">Tahu</a></li>
@@ -27,7 +27,7 @@
                         <ul>
                             <li><a href="#">Sejarah</a></li>
                             <li><a href="{{ route('visi-misi') }}">Visi & Misi</a></li>
-                            <li><a href="#">Struktur Pemerintahan</a></li>
+                            <li><a href="{{ route('struktur') }}">Struktur Pemerintahan</a></li>
                             <li class="dropdown"><a href="#"><span>Infrastruktur</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="#">Radar Pesawat</a></li>
@@ -47,7 +47,6 @@
                             <li><a href="#">Informasi Geografis</a></li>
                             <li class="dropdown"><a href="#"><span>Informasi Penduduk</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
-                                    <li><a href="#">Jumlah Penduduk</a></li>
                                     <li><a href="{{ route('komposisi-penduduk') }}">Komposisi Penduduk</a></li>
                                     <li><a href="{{ route('pekerjaan-penduduk') }}">Pekerjaan Penduduk</a></li>
                                     <li><a href="{{ route('pendidikan-penduduk') }}">Pendidikan Penduduk</a></li>
