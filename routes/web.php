@@ -41,6 +41,9 @@ Route::get('/potensi', function () {
 Route::get('/potensi/pertanian', function () {
     return view('potensi.pertanian');
 })->name('potensi-pertanian');
+Route::get('/potensi/perkebunan', function () {
+    return view('potensi.perkebunan');
+})->name('potensi-perkebunan');
 
 // UMKM
 Route::get('/#portfolio', function () {
