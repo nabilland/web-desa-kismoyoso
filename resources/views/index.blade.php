@@ -1,21 +1,7 @@
 @include('layouts.head')
 
 <body>
-    <!-- ======= Top Bar ======= -->
-    <section id="topbar" class="d-flex align-items-center">
-        <div class="container d-flex justify-content-center justify-content-md-between">
-            <div class="contact-info d-flex align-items-center">
-                <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-                <i class="bi bi-phone d-flex align-items-center ms-4"><span>+62 895-3201-70201</span></i>
-            </div>
-            <div class="social-links d-none d-md-flex align-items-center">
-                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-            </div>
-        </div>
-    </section>
+    @include('layouts.topbar')
 
     @include('layouts.header')
 
@@ -80,7 +66,7 @@
 
                 <div class="row counters">
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="9043" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="9272" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Jumlah Penduduk (Jiwa)</p>
                     </div>
 
@@ -95,10 +81,10 @@
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Prestasi Desa</p>
                     </div>
-                    <p style="text-align: center; margin-top: 20px; font-size: 9pt; font-weight: bold;"><sup>(*)</sup> Berdasarkan Data Badan Pusat Statistik (BPS) Kabupaten Boyolali Tahun YYYY</p>
+                    <p style="text-align: center; margin-top: 20px; font-size: 9pt; font-weight: bold;"><sup>(*)</sup> Berdasarkan Data Badan Pusat Statistik (BPS) Kabupaten Boyolali Tahun 2020</p>
                 </div>
 
             </div>
@@ -389,8 +375,8 @@
                             <div class="email">
                                 <i class="bi bi-clock"></i>
                                 <h4>Waktu Kerja:</h4>
-                                <p>Senin - Jumat</p>
-                                <p>08.00 - 12.00 WIB</p>
+                                <p>Senin — Jumat</p>
+                                <p>08.00 — 12.00 WIB</p>
                             </div>
 
                             <div class="email">

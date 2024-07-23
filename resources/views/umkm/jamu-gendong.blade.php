@@ -73,7 +73,7 @@
                         </div>
                         <li><strong>Prestasi</strong>: UMKM Unggulan</li>
                     </ul>
-                    <h3 style="padding-top:20px;">Informasi Paguyuban UMKM</h3>
+                    <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>

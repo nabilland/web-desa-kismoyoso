@@ -3,7 +3,7 @@
 @section('breadcrumbs')
 <h2>Portfolio Details</h2>
 <ol>
-    <li><a href="index.html">Home</a></li>
+    <li><a href="{{ url('/') }}">Home</a></li>
     <li>Portfolio Details</li>
 </ol>
 @endsection

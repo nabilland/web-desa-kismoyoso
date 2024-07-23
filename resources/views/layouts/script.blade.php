@@ -7,5 +7,12 @@
 <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
 <script src="{{ asset('/vendor/php-email-form/validate.js') }}"></script>
 
+<script src="{{ asset('assets2/vendor/apexcharts/apexcharts.min.js') }}"></script>
+<script src="{{ asset('assets2/vendor/chart.js/chart.umd.js') }}"></script>
+<script src="{{ asset('assets2/vendor/echarts/echarts.min.js') }}"></script>
+<script src="{{ asset('assets2/vendor/quill/quill.js') }}"></script>
+<script src="{{ asset('assets2/vendor/simple-datatables/simple-datatables.js') }}"></script>
+<script src="{{ asset('assets2/vendor/tinymce/tinymce.min.js') }}"></script>
+
 <!-- Template Main JS File -->
 <script src="{{ asset('assets/js/main.js') }}"></script>

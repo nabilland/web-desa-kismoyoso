@@ -19,7 +19,6 @@
 <footer id="footer">
 
     <div class="footer-top">
-
         <div class="container">
 
             <div class="row  justify-content-center">
@@ -48,10 +47,18 @@
 
     <div class="container footer-bottom clearfix">
         <div class="logo-container">
-            <img src="{{ asset('assets/img/logo-boyolali.png') }}" style="height: 35px; width: 30px;" alt="Logo 1">
-            <img src="{{ asset('assets/img/logo-uns-full.png') }}" style="height: 35px;" alt="Logo 1">
-            <img src="{{ asset('assets/img/logo-kampus-merdeka.png') }}" style="height: 35px;" alt="Logo 1">
-            <img src="{{ asset('assets/img/logo-merdeka-belajar.png') }}" style="height: 35px;" alt="Logo 1">
+            <a href="https://boyolali.go.id/" target="_blank">
+                <img src="{{ asset('assets/img/logo-boyolali.png') }}" style="height: 35px; width: 30px;" alt="Logo Kabupaten Boyolali">
+            </a>
+            <a href="https://uns.ac.id/" target="_blank">
+                <img src="{{ asset('assets/img/logo-uns-full.png') }}" style="height: 35px;" alt="Logo Universitas Sebelas Maret">
+            </a>
+            <a href="https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/id" target="_blank">
+                <img src="{{ asset('assets/img/logo-kampus-merdeka.png') }}" style="height: 35px;" alt="Logo Kampus Merdeka">
+            </a>
+            <a href="https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/id" target="_blank">
+                <img src="{{ asset('assets/img/logo-merdeka-belajar.png') }}" style="height: 35px;" alt="Logo Merdeka Belajar">
+            </a>
             <!-- <img src="{{ asset('assets/img/logo-37.png') }}" style="height: 50px;" alt="Logo 1"> -->
         </div>
 
