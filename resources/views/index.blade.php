@@ -118,7 +118,7 @@
                         <div class="icon-box" data-aos="zoom-in">
                             <div class="icon"><i class="bx bx-book-open"></i></div>
                             <h4><a href="">Administrasi Kependudukan</a></h4>
-                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                            <p>Pembuatan dan pengelolaan dokumen penting seperti Kartu Keluarga (KK), Kartu Tanda Penduduk (KTP), akta kelahiran, dan akta kematian.</p>
                         </div>
                     </div>
 
@@ -126,7 +126,7 @@
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4><a href="">Perizinan</a></h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                            <p>Perizinan untuk berbagai keperluan, termasuk izin mendirikan bangunan (IMB), izin usaha, dan izin keramaian.</p>
                         </div>
                     </div>
 
@@ -134,7 +134,7 @@
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4><a href="">Sosial</a></h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <p>Pemberian bantuan kepada warga kurang mampu, penyaluran bantuan sosial dari pemerintah, serta program-program pemberdayaan masyarakat.</p>
                         </div>
                     </div>
 
@@ -142,7 +142,7 @@
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-world"></i></div>
                             <h4><a href="">Pengaduan Masyarakat</a></h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <p>Saluran bagi warga untuk menyampaikan keluhan, saran, atau masukan terkait pelayanan publik dan masalah di lingkungan desa.</p>
                         </div>
                     </div>
 
@@ -150,7 +150,7 @@
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-slideshow"></i></div>
                             <h4><a href="">Informasi Publik</a></h4>
-                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                            <p>Akses mudah dan transparan terhadap informasi yang berkaitan dengan kebijakan, program, dan kegiatan pemerintah desa.</p>
                         </div>
                     </div>
 
@@ -158,7 +158,7 @@
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="500">
                             <div class="icon"><i class="bx bx-arch"></i></div>
                             <h4><a href="">Pembangunan Desa</a></h4>
-                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                            <p>Perencanaan dan pelaksanaan berbagai proyek pembangunan infrastruktur, seperti jalan, fasilitas umum, dan sarana prasarana lainnya.</p>
                         </div>
                     </div>
 
