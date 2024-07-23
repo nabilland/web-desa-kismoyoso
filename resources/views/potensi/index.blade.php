@@ -25,23 +25,27 @@
                         <span>01</span>
                         <h4>Pertanian</h4>
                         <p>Tanaman padi merupakan komoditas utama yang dihasilkan.</p>
+                        <br>
+                        <br><br>
                     </div>
                 </a>
             </div>
 
             <div class="col-lg-4 mt-4 mt-lg-0">
-                <div class="box" data-aos="fade-up" data-aos-delay="100">
-                    <span>02</span>
-                    <h4>ABC</h4>
-                    <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
-                </div>
+                <a href="{{ route('potensi-perkebunan') }}">
+                    <div class="box" data-aos="fade-up" data-aos-delay="100">
+                        <span>02</span>
+                        <h4>Perkebunan</h4>
+                        <p>Perkebunan di Desa Kismoyoso pada musim kemarau fokus pada tanaman jagung dan kacang tanah. Kedua komoditas ini dipilih karena kemampuannya bertahan dalam kondisi kekeringan.</p>
+                    </div> 
+                </a>
             </div>
 
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <div class="box">
                     <span>03</span>
-                    <h4>ABC</h4>
-                    <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                    <h4>UMKM</h4>
+                    <p>UMKM di Desa Kismoyoso mencakup berbagai jenis usaha rumahan seperti jamu gendong, tauge, tahu, dan lainnya, yang mampu meningkatkan perekonomian desa serta menciptakan lapangan kerja bagi penduduk lokal.</p>
                 </div>
             </div>
         </div>

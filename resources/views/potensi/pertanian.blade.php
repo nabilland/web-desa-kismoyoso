@@ -20,15 +20,15 @@
                 <div class="portfolio-details-slider swiper">
                     <div class="swiper-wrapper align-items-center">
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-1.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\pertanian-sawah.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-2.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\pertanian-sawah-2.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-3.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\pertanian-sawah-3.jpg') }}" alt="">
                         </div>
 
                     </div>
@@ -42,6 +42,8 @@
                     <ul>
                         <li><strong>Komoditas</strong>: Padi</li>
                         <li><strong>Luas Lahan Pertanian</strong>: 443,23 Ha</li>
+                        <li><strong>Musim Tanam</strong>: Biasanya pada musim Hujan, dipanen 3-4 bulan</li>
+                        <li><strong>Nilai Ekonomis</strong>: Padi adalah komoditas utama yang mendukung ketahanan pangan dan perekonomian desa.</li>
                     </ul>
                     <h3 style="padding-top:20px;">Komunitas Petani</h3>
                     <div class="d-flex">
@@ -53,9 +55,12 @@
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Title</h2>
-                <p>
-                    Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                <h2>Pertanian di Desa Kismoyoso</h2>
+                <p style="text-align: justify;">
+                    Desa Kismoyoso memiliki luas lahan pertanian sebesar 443,23 hektar yang sebagian besar ditanami padi. Komunitas petani di desa ini sangat aktif dalam mengelola lahan pertanian dan menerapkan praktik-praktik pertanian yang berkelanjutan. Dengan kondisi tanah yang subur dan iklim yang mendukung, pertanian padi di Kismoyoso memberikan hasil panen yang melimpah dan berkualitas tinggi.
+                </p>
+                <p style="text-align: justify;">
+                Para petani di Desa Kismoyoso juga tergabung dalam komunitas yang saling mendukung dan berbagi pengetahuan serta teknik-teknik pertanian. Selain padi, desa ini juga memiliki potensi untuk mengembangkan berbagai komoditas pertanian lainnya. Pertanian di Kismoyoso tidak hanya menjadi sumber penghasilan utama bagi warga desa tetapi juga berperan penting dalam menjaga ketahanan pangan lokal. 
                 </p>
             </div>
         </div>
