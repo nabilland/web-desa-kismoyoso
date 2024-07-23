@@ -64,7 +64,7 @@
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#">Berita</a></li>
-                    <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+                    <li><a class="nav-link scrollto" href="{{ url('/#contact') }}">Kontak</a></li>
                     <li><a class="nav-link scrollto" href="{{ url('/arsip') }}">Arsip</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>

@@ -18,6 +18,7 @@ Route::get('/details', function () {
     return view('menu.details');
 });
 
+// ARSIP
 Route::get('/arsip', function () {
     return view('arsip.arsip');
 });
@@ -32,6 +33,14 @@ Route::get('/pendidikan-penduduk', function () {
 Route::get('/komposisi-penduduk', function () {
     return view('penduduk.komposisi');
 })->name('komposisi-penduduk');
+
+// POTENSI
+Route::get('/potensi', function () {
+    return view('potensi.index');
+})->name('potensi');
+Route::get('/potensi/pertanian', function () {
+    return view('potensi.pertanian');
+})->name('potensi-pertanian');
 
 // UMKM
 Route::get('/jamu-gendong', function () {

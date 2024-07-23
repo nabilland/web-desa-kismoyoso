@@ -12,7 +12,7 @@
 <section class="inner-page">
     <div class="container">
         <h3>Daftar Dokumen</h3>
-        <div class="document-list mt-3">
+        <div class="document-list">
             <h6>Dokumen User Manual Reference (Buku Panduan Penggunaan Website)</h6>
             <button type="button" class="green-button" onclick="toggleDocument('manual', this)">
                 <i class="bx bx-chevron-right" style="padding-right:2px"></i>

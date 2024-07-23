@@ -9,7 +9,7 @@
     <section id="hero">
         <div class="hero-container" data-aos="fade-up">
             <h1>Selamat Datang di Website Desa Kismoyoso</h1>
-            <h2>Mewujudkan sistem pemerintahan yang efektif sehingga mampu meningkatkan pelayanan dan kesejahteraan masyarakat</h2>
+            <h2 style="font-size: 14pt;">Mewujudkan sistem pemerintahan yang efektif sehingga mampu meningkatkan pelayanan dan kesejahteraan masyarakat</h2>
             <a href="#about" class="btn-get-started scrollto">Jelajahi</a>
         </div>
     </section><!-- End Hero -->
@@ -44,7 +44,7 @@
 
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bx-leaf"></i></div>
-                            <h4 class="title"><a href="">Potensi</a></h4>
+                            <h4 class="title"><a href="#">Potensi</a></h4>
                             <p class="description">Potensi yang luar biasa, mencakup sektor pertanian, kerajinan tangan, kuliner, hingga produk olahan.</p>
                         </div>
 
@@ -97,7 +97,7 @@
                 <div class="text-center">
                     <h3>Potensi Desa</h3>
                     <p>Temukan berbagai potensi luar biasa Desa Kismoyoso</p>
-                    <a class="cta-btn" href="#">Temukan</a>
+                    <a class="cta-btn" href="{{ route('potensi') }}">Temukan</a>
                 </div>
 
             </div>
