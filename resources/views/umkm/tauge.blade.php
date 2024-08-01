@@ -1,11 +1,11 @@
 @extends('layouts.layout')
 
 @section('breadcrumbs')
-<h2>Jamu Gendong</h2>
+<h2>Tauge</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
     <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
-    <li>Jamu Gendong</li>
+    <li>Tauge</li>
 </ol>
 @endsection
 
@@ -20,17 +20,16 @@
                 <div class="portfolio-details-slider swiper">
                     <div class="swiper-wrapper align-items-center">
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-1.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\tauge.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-2.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\tauge2.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-3.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\tauge3.jpg') }}" alt="">
                         </div>
-
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
@@ -40,13 +39,12 @@
                 <div class="portfolio-info">
                     <h3>Informasi UMKM</h3>
                     <ul>
-                        <li><strong>Nama Usaha</strong>: Jamu Gendong</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Menengah</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Pangan dan Minuman</li>
-                        <li><strong>Kategori Produk</strong>: Minuman Kesehatan, Produk Herbal, atau Minuman Tradisional</li>
-                        <li><strong>Produk Unggulan</strong>: Jamu</li>
-                        <li><strong>Pemilik</strong>: John Doe</li>
-                        <li><strong>Tahun Berdiri</strong>: 01 March, 2020</li>
+                        <li><strong>Nama Usaha</strong>: Tauge</li>
+                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi dan Penjualan Tauge</li>
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Pertanian dan Hortikultura</li>
+                        <li><strong>Kategori Produk</strong>: Sayuran Segar</li>
+                        <li><strong>Pemilik</strong>: Ibu Siti Aminah</li>
+                        <li><strong>Tahun Berdiri</strong>: 2010</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
                                 <a target="_blank" href="https://maps.app.goo.gl/aAhqAjLrdufsVKbc9">
@@ -82,9 +80,12 @@
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Jamu Gendong XYZ</h2>
-                <p>
-                    Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                <h2>Produksi Tauge</h2>
+                <p style="text-align: justify;">
+                    Produksi tauge di Desa Kismoyoso dilakukan dengan metode yang higienis dan efisien, memastikan kualitas tauge yang tinggi dan aman untuk dikonsumsi. Proses produksi dimulai dengan pemilihan biji kedelai yang berkualitas, yang kemudian direndam dalam air bersih hingga berkecambah. Proses perendaman dan penumbuhan dilakukan dalam kondisi yang terkontrol untuk memastikan tauge tumbuh dengan baik dan bebas dari kontaminasi.
+                </p>
+                <p style="text-align: justify;">
+                    Para pengusaha tauge di Kismoyoso sangat memperhatikan kebersihan dan kualitas dalam setiap tahap produksi. Setelah tauge mencapai ukuran yang diinginkan, mereka dipanen dan dikemas dengan hati-hati untuk menjaga kesegarannya. Tauge dari Kismoyoso tidak hanya dijual di pasar lokal tetapi juga dipasok ke berbagai daerah, menunjukkan kepercayaan dan permintaan yang tinggi dari konsumen. Produksi tauge yang berkelanjutan dan berkualitas tinggi ini berkontribusi signifikan terhadap perekonomian desa dan kesejahteraan para petani lokal.
                 </p>
             </div>
         </div>
