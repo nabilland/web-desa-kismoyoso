@@ -13,24 +13,24 @@
                     <li class="dropdown"><a href="#"><span>Potensi</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="{{ route('potensi-pertanian') }}">Pertanian</a></li>
-                            <li><a href="#">Perkebunan</a></li>
+                            <li><a href="{{ route('potensi-perkebunan') }}">Perkebunan</a></li>
                             <li class="dropdown"><a class="nav-link scrollto" href="{{ route('umkm') }}"><span>UMKM</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="{{ route('jamu-gendong') }}">Jamu Gendong</a></li>
-                                    <li><a href="#">Tahu</a></li>
-                                    <li><a href="#">Tauge</a></li>
+                                    <li><a href="{{ route('tahu') }}">Tahu</a></li>
+                                    <li><a href="{{ route('tauge') }}">Tauge</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Tentang Desa</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="#">Sejarah</a></li>
+                            <li><a href="{{ route('sejarah') }}">Sejarah</a></li>
                             <li><a href="{{ route('visi-misi') }}">Visi & Misi</a></li>
                             <li><a href="{{ route('struktur') }}">Struktur Pemerintahan</a></li>
-                            <li class="dropdown"><a href="#"><span>Infrastruktur</span> <i class="bi bi-chevron-right"></i></a>
+                            <!-- <li class="dropdown"><a href="#"><span>Infrastruktur</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
-                                    <li><a href="#">Radar Pesawat</a></li>
+                                    <li><a href="{{ route('radar-pesawat') }}">Radar Pesawat</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown"><a href="#"><span>Fasilitas</span> <i class="bi bi-chevron-right"></i></a>
@@ -43,7 +43,7 @@
                                     <li><a href="#">Perpustakaan</a></li>
                                     <li><a href="#">Pasar</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                             <li><a href="#">Informasi Geografis</a></li>
                             <li class="dropdown"><a href="#"><span>Informasi Penduduk</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
@@ -58,8 +58,14 @@
                     </li>
                     <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="#">Kebun Gizi</a></li>
-                            <li><a href="#">Posyandu</a></li>
+                            <li class="dropdown"><a class="nav-link scrollto" href="{{ route('kebun-gizi') }}"><span>Kebun Gizi</span> <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="{{ route('kebun-gizi-lembayung') }}">Kebun Gizi Lembayung</a></li>
+                                    <li><a href="{{ route('kebun-gizi-sawi') }}">Kebun Gizi Sawi</a></li>
+                                    <li><a href="{{ route('kebun-gizi-bayam') }}">Kebun Gizi Bayam</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="{{ route('posyandu') }}">Posyandu</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#">Berita</a></li>

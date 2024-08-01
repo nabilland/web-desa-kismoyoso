@@ -1,7 +1,7 @@
 @extends('layouts.layout')
 
 @section('breadcrumbs')
-<h2>Potensi Desa</h2>
+<h2>UMKM</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
     <li>Potensi Desa</li>

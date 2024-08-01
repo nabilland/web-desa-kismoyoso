@@ -206,7 +206,7 @@
                             <h4>Tauge</h4>
                             <p>Pertanian & Perkebunan</p>
                             <a href="{{ asset('assets/img/dummy/tauge.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="{{ route('tauge') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 
@@ -216,7 +216,7 @@
                             <h4>Tahu</h4>
                             <p>Kuliner</p>
                             <a href="{{ asset('assets/img/dummy/tahu.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="{{ route('tahu') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 

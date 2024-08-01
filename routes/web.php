@@ -23,6 +23,23 @@ Route::get('/arsip', function () {
     return view('arsip.arsip');
 });
 
+// KEGIATAN
+Route::get('/kebun-gizi', function () {
+    return view('kegiatan.index');
+})->name('kebun-gizi');
+Route::get('/kebun-gizi-lembayung', function () {
+    return view('kegiatan.kebun-gizi-lembayung');
+})->name('kebun-gizi-lembayung');
+Route::get('/kebun-gizi-sawi', function () {
+    return view('kegiatan.kebun-gizi-sawi');
+})->name('kebun-gizi-sawi');
+Route::get('/kebun-gizi-bayam', function () {
+    return view('kegiatan.kebun-gizi-bayam');
+})->name('kebun-gizi-bayam');
+Route::get('/posyandu', function () {
+    return view('kegiatan.posyandu');
+})->name('posyandu');
+
 // INFORMASI PENDUDUK
 Route::get('/pekerjaan-penduduk', function () {
     return view('penduduk.pekerjaan');
@@ -51,6 +68,13 @@ Route::get('/#portfolio', function () {
 Route::get('/umkm/jamu-gendong', function () {
     return view('umkm.jamu-gendong');
 })->name('jamu-gendong');
+Route::get('/umkm/tahu', function () {
+    return view('umkm.tahu');
+})->name('tahu');
+Route::get('/umkm/tauge', function () {
+    return view('umkm.tauge');
+})->name('tauge');
+
 
 // ABOUT DESA
 Route::get('/tentang-desa/visi-misi', function () {
@@ -59,3 +83,11 @@ Route::get('/tentang-desa/visi-misi', function () {
 Route::get('/tentang-desa/struktur-pemerintahan', function () {
     return view('about.struktur');
 })->name('struktur');
+Route::get('/tentang-desa/sejarah', function () {
+    return view('about.sejarah');
+})->name('sejarah');
+
+// INFRASTRUKTUR
+Route::get('/infrastrukur/radar-pesawat', function () {
+    return view('infrastruktur.radar-pesawat');
+})->name('radar-pesawat');
