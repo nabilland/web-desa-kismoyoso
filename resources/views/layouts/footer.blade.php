@@ -64,7 +64,7 @@
 
         <!-- PERHATIAN: JANGAN DI-EDIT! (PLEASE DO NOT EDIT) -->
         <div class="copyright">
-            &copy; Copyright <strong><span>Tim Informatika KKN UNS Membangun Desa Kismoyoso 2024</span></strong>. All Rights Reserved
+            &copy; Hak Cipta <strong><span>Tim KKN UNS Membangun Desa Kismoyoso Juli-Agustus 2024</span></strong>. Semua Hak Dilindungi Undang-Undang.
         </div>
 
         <div class="credits">

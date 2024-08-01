@@ -12,84 +12,81 @@
 <section class="inner-page">
     <div class="container mb-3">
         <h5 style="font-weight: bold;" class="mx-1 mb-3">Pendidikan Penduduk Berdasarkan Jenis Kelamin</h6>
-        <div class="d-flex justify-content-around">
-            <div class="col-lg-6 mx-1">
+            <div class="col-lg-6">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Laki-Laki</h5>
-
-                        <!-- Bar Chart -->
-                        <div id="barChart"></div>
+                        <!-- Vertical Bar Chart -->
+                        <div id="verticalBarChart" style="min-height: 400px;" class="echart"></div>
+                        <div class="m-4">
+                            <button id="downloadBtn" class="green-button" style="position: absolute; bottom: 10px; right: 10px;">Download Gambar</button>
+                        </div>
 
                         <script>
                             document.addEventListener("DOMContentLoaded", () => {
-                                new ApexCharts(document.querySelector("#barChart"), {
-                                    series: [{
-                                        data: [0, 0, 1120, 1317, 0, 0]
-                                    }],
-                                    chart: {
-                                        type: 'bar',
-                                        height: 350
-                                    },
-                                    plotOptions: {
-                                        bar: {
-                                            borderRadius: 4,
-                                            horizontal: true,
+                                var chart = echarts.init(document.querySelector("#verticalBarChart"));
+                                var option = {
+                                    tooltip: {
+                                        trigger: 'axis',
+                                        axisPointer: {
+                                            type: 'shadow'
                                         }
                                     },
-                                    dataLabels: {
-                                        enabled: false
+                                    legend: {
+                                        left: 'right',
                                     },
-                                    xaxis: {
-                                        categories: ['TK', 'SD', 'SMP', 'SMA', 'AKADEMI', 'SARJANA'],
-                                    }
-                                }).render();
+                                    grid: {
+                                        left: '3%',
+                                        right: '4%',
+                                        bottom: '3%',
+                                        containLabel: true
+                                    },
+                                    xAxis: {
+                                        type: 'value',
+                                        boundaryGap: [0, 0.01]
+                                    },
+                                    yAxis: {
+                                        type: 'category',
+                                        data: ['Sarjana', 'Akademi', 'SMA', 'SMP', 'SD', 'TK']
+                                    },
+                                    series: [{
+                                            name: 'Laki-Laki',
+                                            type: 'bar',
+                                            data: [0, 0, 1317, 1120, 0, 0, 0]
+                                        },
+                                        {
+                                            name: 'Perempuan',
+                                            type: 'bar',
+                                            data: [0, 0, 1715, 2413, 0, 0, 0]
+                                        }
+                                    ]
+                                };
+
+                                chart.setOption(option);
+
+                                document.querySelector("#downloadBtn").addEventListener("click", () => {
+                                    var imgURL = chart.getDataURL({
+                                        type: 'png',
+                                        pixelRatio: 2,
+                                        backgroundColor: '#fff'
+                                    });
+                                    var link = document.createElement('a');
+                                    link.href = imgURL;
+                                    link.download = 'Diagram Pekerjaan Penduduk Desa Kismoyoso.png';
+                                    link.click();
+                                });
                             });
                         </script>
-                        <!-- End Bar Chart -->
+                        <!-- End Vertical Bar Chart -->
 
                     </div>
                 </div>
             </div>
-
-            <div class="col-lg-6 mx-1">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Perempuan</h5>
-
-                        <!-- Bar Chart -->
-                        <div id="barChart2"></div>
-
-                        <script>
-                            document.addEventListener("DOMContentLoaded", () => {
-                                new ApexCharts(document.querySelector("#barChart2"), {
-                                    series: [{
-                                        data: [0, 0, 2413, 1715, 0, 0]
-                                    }],
-                                    chart: {
-                                        type: 'bar',
-                                        height: 350,
-                                    },
-                                    plotOptions: {
-                                        bar: {
-                                            borderRadius: 4,
-                                            horizontal: true,
-                                        }
-                                    },
-                                    dataLabels: {
-                                        enabled: false
-                                    },
-                                    xaxis: {
-                                        categories: ['TK', 'SD', 'SMP', 'SMA', 'AKADEMI', 'SARJANA'],
-                                    }
-                                }).render();
-                            });
-                        </script>
-                        <!-- End Bar Chart -->
-                    </div>
-                </div>
+            <div class="container grey-block p-3 mt-4">
+                <p>
+                    Masyarakat <b>Desa Kismoyoso</b> memiliki berbagai tingkat pendidikan yang mencerminkan keragaman latar belakang dan aspirasi. Data di atas menunjukkan distribusi pendidikan berdasarkan gender, mencakup tingkat pendidikan SMP dan SMA.
+                    Dari data yang tersedia, dapat disimpulkan bahwa 1.317 laki-laki telah menempuh pendidikan SMA dan 1.120 lainnya mencapai tingkat SMP. Sementara itu, 1.715 perempuan telah menyelesaikan pendidikan SMA, dan 2.413 lainnya lulus SMP.
+                </p>
             </div>
-        </div>
     </div>
 </section>
 @endsection

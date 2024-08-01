@@ -43,9 +43,17 @@ h6 {
   padding-bottom:3px;
   border-radius:20px;
   margin: 2px;
+  font-size: 13px;
   border-color:transparent;
-  background-color:#8fc04e;
-  color:white;
+  background-color :#8fc04e;
+  color: white;
+}
+
+.green-button:hover {
+  background-color: white;
+  border-color: #8fc04e;
+  color: #8fc04e;
+  box-shadow: none;
 }
 
 .grey-block {

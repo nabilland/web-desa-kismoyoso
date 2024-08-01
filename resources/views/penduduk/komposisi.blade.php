@@ -11,36 +11,60 @@
 @section('contents')
 <section class="inner-page">
     <div class="container mb-3">
-        <h5 style="font-weight: bold;" class="mx-1 mb-3">Distribusi Penduduk Berdasarkan Jenis Kelamin</h6>
-        <p class="mx-1">Total Penduduk: 9272</p>
-            <div class="d-flex">
-                <div class="col-lg-6 mx-1">
-                    <div class="card">
-                        <div class="card-body">
+        <h5 style="font-weight: bold;" class="mx-1 mb-3">Distribusi Penduduk Berdasarkan Gender</h6>
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <!-- Pie Chart -->
+                        <div id="pieChart" style="min-height: 300px;" class="echart"></div>
 
-                            <!-- Pie Chart -->
-                            <div id="pieChart"></div>
-
-                            <script>
-                                document.addEventListener("DOMContentLoaded", () => {
-                                    new ApexCharts(document.querySelector("#pieChart"), {
-                                        series: [4751, 4521],
-                                        chart: {
-                                            height: 350,
-                                            type: 'pie',
-                                            toolbar: {
-                                                show: true
+                        <script>
+                            document.addEventListener("DOMContentLoaded", () => {
+                                echarts.init(document.querySelector("#pieChart")).setOption({
+                                    title: {
+                                        // text: 'Gender Penduduk',
+                                        // subtext: 'Fake Data',
+                                        // left: 'center'
+                                    },
+                                    tooltip: {
+                                        trigger: 'item'
+                                    },
+                                    legend: {
+                                        orient: 'horizontal',
+                                        left: 'right'
+                                    },
+                                    series: [{
+                                        name: 'Jumlah',
+                                        type: 'pie',
+                                        radius: '80%',
+                                        data: [{
+                                                value: 4751,
+                                                name: 'Laki-Laki'
+                                            },
+                                            {
+                                                value: 4521,
+                                                name: 'Perempuan'
+                                            },
+                                        ],
+                                        emphasis: {
+                                            itemStyle: {
+                                                shadowBlur: 10,
+                                                shadowOffsetX: 0,
+                                                shadowColor: 'rgba(0, 0, 0, 0.5)'
                                             }
-                                        },
-                                        labels: ['Laki-Laki', 'Perempuan']
-                                    }).render();
+                                        }
+                                    }]
                                 });
-                            </script>
-                            <!-- End Pie Chart -->
-                        </div>
+                            });
+                        </script>
+                        <!-- End Pie Chart -->
                     </div>
                 </div>
             </div>
+            <div class="container grey-block p-3 mt-4">
+                <p>Komposisi penduduk <b>Desa Kismoyoso</b> terbagi antara laki-laki dan perempuan dengan jumlah yang hampir seimbang. Dari total populasi, terdapat 4.751 laki-laki dan 4.521 perempuan. Perbedaan jumlah ini mencerminkan distribusi gender yang seimbang di desa, menunjukkan keberagaman dan keseimbangan dalam struktur demografi masyarakat setempat.</p>
+            </div>
+    </div>
     </div>
 </section>
 @endsection
