@@ -45,18 +45,18 @@
                         <li><strong>Musim Tanam</strong>: Musim Kemarau</li>
                         <li><strong>Nilai Ekonomis</strong>: Jagung untuk pangan dan pakan, kacang tanah untuk produk olahan</li>
                     </ul>
-                    <h3 style="padding-top:20px;">Komunitas Petani</h3>
+                    <!-- <h3 style="padding-top:20px;">Komunitas Petani</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
                             Lihat Informasi Selengkapnya
                         </button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="portfolio-description">
                 <h2>Perkebunan di Desa Kismoyoso</h2>
-                <p style="text-align: justify;"> 
+                <p style="text-align: justify;">
                     Pada musim kemarau, lahan pertanian beralih untuk menanam jagung dan kacang tanah. Kedua tanaman ini dipilih karena kemampuannya untuk tumbuh dengan baik dalam kondisi kekeringan relatif. Jagung dan kacang tanah merupakan komoditas penting yang membantu diversifikasi hasil pertanian dan mendukung ketahanan pangan desa. Penanaman jagung dan kacang tanah juga berperan dalam mengoptimalkan penggunaan lahan selama periode kekurangan air, memastikan bahwa petani tetap dapat memproduksi hasil pertanian yang berharga.
                 </p>
 

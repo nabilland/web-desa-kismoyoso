@@ -45,13 +45,13 @@
                         <li><strong>Musim Tanam</strong>: Biasanya pada musim Hujan, dipanen 3-4 bulan</li>
                         <li><strong>Nilai Ekonomis</strong>: Padi adalah komoditas utama yang mendukung ketahanan pangan dan perekonomian desa.</li>
                     </ul>
-                    <h3 style="padding-top:20px;">Komunitas Petani</h3>
+                    <!-- <h3 style="padding-top:20px;">Komunitas Petani</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
                             Lihat Informasi Selengkapnya
                         </button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="portfolio-description">
@@ -60,7 +60,7 @@
                     Desa Kismoyoso memiliki luas lahan pertanian sebesar 443,23 hektar yang sebagian besar ditanami padi. Komunitas petani di desa ini sangat aktif dalam mengelola lahan pertanian dan menerapkan praktik-praktik pertanian yang berkelanjutan. Dengan kondisi tanah yang subur dan iklim yang mendukung, pertanian padi di Kismoyoso memberikan hasil panen yang melimpah dan berkualitas tinggi.
                 </p>
                 <p style="text-align: justify;">
-                Para petani di Desa Kismoyoso juga tergabung dalam komunitas yang saling mendukung dan berbagi pengetahuan serta teknik-teknik pertanian. Selain padi, desa ini juga memiliki potensi untuk mengembangkan berbagai komoditas pertanian lainnya. Pertanian di Kismoyoso tidak hanya menjadi sumber penghasilan utama bagi warga desa tetapi juga berperan penting dalam menjaga ketahanan pangan lokal. 
+                Para petani di Desa Kismoyoso juga tergabung dalam komunitas yang saling mendukung dan berbagi pengetahuan serta teknik-teknik pertanian. Selain padi, desa ini juga memiliki potensi untuk mengembangkan berbagai komoditas pertanian lainnya. Pertanian di Kismoyoso tidak hanya menjadi sumber penghasilan utama bagi warga desa tetapi juga berperan penting dalam menjaga ketahanan pangan lokal.
                 </p>
             </div>
         </div>

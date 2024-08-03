@@ -57,20 +57,20 @@
                                 </a>
                             </li>
                         </div>
-                        <div class="d-flex">
+                        <!-- <div class="d-flex">
                             <li><strong>Kontak</strong>:
                                 <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285647904529">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
-                                </a>
+                                </a> -->
                                 <!-- <a href="tel:6285647904529">
                                     <button class="green-button">
                                         <i class="bx bx-phone" style="padding-right:2px"></i>
                                         Hubungi</button>
                                 </a> -->
-                            </li>
-                        </div>
+                            <!-- </li>
+                        </div> -->
                     </ul>
                     <!-- <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
                     <div class="d-flex">
