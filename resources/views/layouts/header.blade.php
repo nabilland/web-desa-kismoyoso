@@ -44,14 +44,14 @@
                                     <li><a href="#">Pasar</a></li>
                                 </ul>
                             </li> -->
-                            <li><a href="#">Informasi Geografis</a></li>
+                            <li><a href="{{ route('informasi-geografis') }}">Informasi Geografis</a></li>
                             <li class="dropdown"><a href="#"><span>Informasi Penduduk</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="{{ route('komposisi-penduduk') }}">Komposisi Penduduk</a></li>
                                     <li><a href="{{ route('pekerjaan-penduduk') }}">Pekerjaan Penduduk</a></li>
                                     <li><a href="{{ route('pendidikan-penduduk') }}">Pendidikan Penduduk</a></li>
-                                    <li><a href="#">Kesejahteraan Penduduk</a></li>
-                                    <li><a href="#">Kesehatan Penduduk</a></li>
+                                    <!-- <li><a href="#">Kesejahteraan Penduduk</a></li>
+                                    <li><a href="#">Kesehatan Penduduk</a></li> -->
                                 </ul>
                             </li>
                         </ul>
@@ -68,7 +68,7 @@
                             <li><a href="{{ route('posyandu') }}">Posyandu</a></li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#">Berita</a></li>
+                    <!-- <li><a class="nav-link scrollto" href="#">Berita</a></li> -->
                     <li><a class="nav-link scrollto" href="{{ url('/#contact') }}">Kontak</a></li>
                     <li><a class="nav-link scrollto" href="{{ url('/arsip') }}">Arsip</a></li>
                 </ul>

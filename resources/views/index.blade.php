@@ -21,11 +21,11 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 video-box d-flex justify-content-center align-items-stretch" data-aos="zoom-in">
+                    <!-- <div class="col-xl-6 col-lg-6 video-box d-flex justify-content-center align-items-stretch" data-aos="zoom-in">
                         <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
-                    </div>
+                    </div> -->
 
-                    <div class="col-xl-6 col-lg-6 d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+                    <div class="container">
                         <div class="box-heading" data-aos="fade-up">
                             <h4>Sekilas Tentang Desa</h4>
                             <h3>Desa Kismoyoso: Sejarah, Potensi, dan Kearifan Lokal</h3>
@@ -65,25 +65,25 @@
             <div class="container">
 
                 <div class="row counters">
-                    <div class="col-lg-3 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="9272" data-purecounter-duration="1" class="purecounter"></span>
+                    <div class="col-lg-4 col-6 text-center">
+                        <span data-purecounter-start="0" data-purecounter-end="10225" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Jumlah Penduduk (Jiwa)</p>
                     </div>
 
-                    <div class="col-lg-3 col-6 text-center">
+                    <div class="col-lg-4 col-6 text-center">
                         <span data-purecounter-start="0" data-purecounter-end="3779" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Luas Wilayah (km<sup>2</sup>)</p>
                     </div>
 
-                    <div class="col-lg-3 col-6 text-center">
+                    <div class="col-lg-4 col-6 text-center">
                         <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Jumlah Dusun</p>
                     </div>
 
-                    <div class="col-lg-3 col-6 text-center">
+                    <!-- <div class="col-lg-3 col-6 text-center">
                         <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Prestasi Desa</p>
-                    </div>
+                    </div> -->
                     <p style="text-align: center; margin-top: 20px; font-size: 9pt; font-weight: bold;"><sup>(*)</sup> Berdasarkan Data Badan Pusat Statistik (BPS) Kabupaten Boyolali Tahun 2020</p>
                 </div>
 
@@ -132,7 +132,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="icon"><i class="bx bx-tachometer"></i></div>
+                            <div class="icon"><i class="bx bx-network-chart"></i></div>
                             <h4><a href="">Sosial</a></h4>
                             <p>Pemberian bantuan kepada warga kurang mampu, penyaluran bantuan sosial dari pemerintah, serta program-program pemberdayaan masyarakat.</p>
                         </div>
@@ -140,7 +140,7 @@
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-                            <div class="icon"><i class="bx bx-world"></i></div>
+                            <div class="icon"><i class="bx bx-import"></i></div>
                             <h4><a href="">Pengaduan Masyarakat</a></h4>
                             <p>Saluran bagi warga untuk menyampaikan keluhan, saran, atau masukan terkait pelayanan publik dan masalah di lingkungan desa.</p>
                         </div>
@@ -220,7 +220,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <img src="{{ asset('assets/img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 2</h4>
@@ -278,7 +278,7 @@
                             <a href="{{ asset('assets/img/portfolio/portfolio-9.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -286,7 +286,7 @@
         </section><!-- End Portfolio Section -->
 
         <!-- ======= F.A.Q Section ======= -->
-        <section id="faq" class="faq">
+        <!-- <section id="faq" class="faq">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
@@ -346,7 +346,7 @@
                 </div>
 
             </div>
-        </section><!-- End F.A.Q Section -->
+        </section>End F.A.Q Section -->
 
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="contact">
@@ -379,11 +379,11 @@
                                 <p>08.00 — 12.00 WIB</p>
                             </div>
 
-                            <div class="email">
+                            <!-- <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
                                 <p>info@example.com</p>
-                            </div>
+                            </div> -->
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>

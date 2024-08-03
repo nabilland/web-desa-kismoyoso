@@ -64,7 +64,7 @@
 
         <!-- PERHATIAN: JANGAN DI-EDIT! (PLEASE DO NOT EDIT) -->
         <div class="copyright">
-            &copy; Hak Cipta <strong><span>Tim KKN UNS Membangun Desa Kismoyoso Juli-Agustus 2024</span></strong>. Semua Hak Dilindungi Undang-Undang.
+            &copy; Hak Cipta <strong><span>Tim KKN 37 & 38 UNS Membangun Desa Kismoyoso Juli-Agustus 2024</span></strong>. Semua Hak Dilindungi Undang-Undang.
         </div>
 
         <div class="credits">

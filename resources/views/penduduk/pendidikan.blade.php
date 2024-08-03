@@ -11,7 +11,7 @@
 @section('contents')
 <section class="inner-page">
     <div class="container mb-3">
-        <h5 style="font-weight: bold;" class="mx-1 mb-3">Pendidikan Penduduk Berdasarkan Jenis Kelamin</h6>
+        <h5 style="font-weight: bold;" class="mx-1 mb-3">Distribusi Pendidikan Penduduk</h6>
             <div class="col-lg-6">
                 <div class="card">
                     <div class="card-body">
@@ -71,7 +71,7 @@
                                     });
                                     var link = document.createElement('a');
                                     link.href = imgURL;
-                                    link.download = 'Diagram Pekerjaan Penduduk Desa Kismoyoso.png';
+                                    link.download = 'Diagram Pendidikan Penduduk Desa Kismoyoso.png';
                                     link.click();
                                 });
                             });
@@ -82,7 +82,7 @@
                 </div>
             </div>
             <div class="container grey-block p-3 mt-4">
-                <p>
+                <p style="text-align:justify;">
                     Masyarakat <b>Desa Kismoyoso</b> memiliki berbagai tingkat pendidikan yang mencerminkan keragaman latar belakang dan aspirasi. Data di atas menunjukkan distribusi pendidikan berdasarkan gender, mencakup tingkat pendidikan SMP dan SMA.
                     Dari data yang tersedia, dapat disimpulkan bahwa 1.317 laki-laki telah menempuh pendidikan SMA dan 1.120 lainnya mencapai tingkat SMP. Sementara itu, 1.715 perempuan telah menyelesaikan pendidikan SMA, dan 2.413 lainnya lulus SMP.
                 </p>

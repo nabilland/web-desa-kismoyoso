@@ -40,6 +40,11 @@ Route::get('/posyandu', function () {
     return view('kegiatan.posyandu');
 })->name('posyandu');
 
+// INFORMASI GEOGRAFIS
+Route::get('/informasi-geografis', function () {
+    return view('about.geografis');
+})->name('informasi-geografis');
+
 // INFORMASI PENDUDUK
 Route::get('/pekerjaan-penduduk', function () {
     return view('penduduk.pekerjaan');

@@ -11,14 +11,18 @@
 @section('contents')
 <section class="inner-page">
     <div class="container mb-3">
-        <h5 style="font-weight: bold;" class="mx-1 mb-3">Pekerjaan Penduduk Berdasarkan Gender</h5>
+        <h5 style="font-weight: bold;" class="mx-1 mb-3">Distribusi Pekerjaan Penduduk</h5>
         <div class="col-lg-6">
             <div class="card">
                 <div class="card-body">
                     <!-- Vertical Bar Chart -->
-                    <div id="verticalBarChart" style="min-height: 400px;" class="echart"></div>
+                    <div id="verticalBarChart" style="min-height: 500px;" class="echart"></div>
                     <div class="m-4">
-                        <button id="downloadBtn" class="green-button" style="position: absolute; bottom: 10px; right: 10px;">Download Gambar</button>
+                        <a href="#">
+                            <button class="green-button" id="downloadBtn" style="position: absolute; bottom: 10px; right: 10px;">
+                                <i class="bx bx-download" style="padding-right:2px"></i>
+                                Download Gambar</button>
+                        </a>
                     </div>
 
                     <script>
@@ -46,19 +50,13 @@
                                 },
                                 yAxis: {
                                     type: 'category',
-                                    data: ['Swasta', 'Polisi', 'TNI', 'PNS', 'Buruh', 'Pedagang', 'Petani']
+                                    data: ['Polisi', 'TNI', 'Guru', 'Karyawan Swasta', 'Wiraswasta', 'Pedagang', 'Petani/Pekebun', 'Buruh Harian Lepas', 'Mengurus Rumah Tangga', 'Belum/Tidak Bekerja', 'Pelajar/Mahasiswa']
                                 },
                                 series: [{
-                                        name: 'Laki-Laki',
-                                        type: 'bar',
-                                        data: [431, 3, 6, 18, 310, 15, 502]
-                                    },
-                                    {
-                                        name: 'Perempuan',
-                                        type: 'bar',
-                                        data: [302, 0, 0, 24, 450, 35, 304]
-                                    }
-                                ]
+                                    name: 'Penduduk',
+                                    type: 'bar',
+                                    data: [3, 6, 76, 2879, 231, 58, 86, 1856, 508, 2814, 1987]
+                                }]
                             };
 
                             chart.setOption(option);
@@ -82,9 +80,9 @@
             </div>
         </div>
         <div class="container grey-block p-3 mt-4">
-            <p>
-                Masyarakat <b>Desa Kismoyoso</b> memiliki berbagai jenis mata pencaharian yang mencerminkan keragaman profesi dan peran. Data di atas memperlihatkan distribusi jenis pekerjaan berdasarkan gender, mencakup berbagai profesi seperti Petani, Pedagang, Buruh, PNS, TNI, Polisi, dan Swasta.
-                Dari data yang ada, dapat disimpulkan bahwa sebagian besar laki-laki terlibat dalam sektor pertanian dan swasta. Sementara itu, perempuan cenderung bekerja di sektor buruh dan pertanian. Keberagaman ini mencerminkan dinamika ekonomi desa yang adaptif terhadap kebutuhan dan peluang yang ada.
+            <p style="text-align:justify;">
+                Penduduk <b>Desa Kismoyoso</b> memiliki beragam pekerjaan yang mencerminkan berbagai sektor kehidupan. Sebagian besar penduduk bekerja sebagai Karyawan Swasta dengan jumlah 2.879 orang, diikuti oleh Belum/Tidak Bekerja sebanyak 2.814 orang. Profesi Pelajar/Mahasiswa juga cukup signifikan dengan jumlah 1.987 orang. Selain itu, terdapat 1.856 orang yang bekerja sebagai Buruh Harian Lepas dan 508 orang yang Mengurus Rumah Tangga.
+                Profesi lainnya meliputi Petani/Pekebun sebanyak 86 orang, Wiraswasta dengan 231 orang, Pedagang dengan 58 orang, Guru dengan 76 orang, serta sejumlah kecil yang bekerja sebagai TNI (6 orang) dan Polisi (3 orang). Data ini menggambarkan keberagaman pekerjaan penduduk desa, yang mencakup sektor formal maupun informal, serta berbagai profesi yang mendukung dinamika ekonomi dan sosial di Desa Kismoyoso.
             </p>
         </div>
     </div>

@@ -77,7 +77,7 @@
                         <!-- <li><strong>Pemilik</strong>: John Doe</li> -->
                         <li><strong>Tahun Berdiri</strong>: 2022</li>
                         <div class="d-flex">
-                            <li><strong>Kontak</strong>: +6281-234-567-891
+                            <li><strong>Kontak</strong>: +62 812-345-67891
                                 <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281234567891">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
@@ -95,14 +95,14 @@
                         </div>
                         </div>
                     </ul>
-                    
+
                 </div>
             </div>
             <div class="portfolio-description">
                 <h2>Kenal Lebih Dekat dengan Kebun Gizi Sawi</h2>
-                <p style="text-align: justify;"> 
+                <p style="text-align: justify;">
                      Kebun Gizi Sawi di Desa Kismoyoso, berdiri sejak 2022. Kebun ini berlokasi di Tegalan RT 003/RW 001, Kebun Gizi ini dinaungi oleh PKK Sentosa Makmur. Kebun Gizi Saawi berfokus pada peningkatan kesejahteraan masyarakat melalui pertanian berkelanjutan dan edukasi gizi dibantu dengan ibu-ibu PKK (Pemberdayaan dan Kesejahteraan Keluarga) setempat.
-                     Kebun Gizi ini ditanam aneka macam tanaman mulai dari tanaman obat, buah-buahan seperti jeruk bali, pisang, pepaya, dll.; sayur mayur seperti singkong, cabai, tomat, sawi, dll.; dan ada juga kandang ayam untuk menyimpan hewan ternak. Dengan adanya Kebun Gizi ini Warga bisa mengambil hasil tanaman di Kebun Gizi Sawi secara cuma-cuma alias gratis. 
+                     Kebun Gizi ini ditanam aneka macam tanaman mulai dari tanaman obat, buah-buahan seperti jeruk bali, pisang, pepaya, dll.; sayur mayur seperti singkong, cabai, tomat, sawi, dll.; dan ada juga kandang ayam untuk menyimpan hewan ternak. Dengan adanya Kebun Gizi ini Warga bisa mengambil hasil tanaman di Kebun Gizi Sawi secara cuma-cuma alias gratis.
                 </p>
 
             </div>
