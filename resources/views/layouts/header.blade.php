@@ -68,7 +68,7 @@
                             <li><a href="{{ route('posyandu') }}">Posyandu</a></li>
                         </ul>
                     </li>
-                    <!-- <li><a class="nav-link scrollto" href="#">Berita</a></li> -->
+                    <li><a class="nav-link scrollto" href="{{ url('/berita') }}">Berita</a></li>
                     <li><a class="nav-link scrollto" href="{{ url('/#contact') }}">Kontak</a></li>
                     <li><a class="nav-link scrollto" href="{{ url('/arsip') }}">Arsip</a></li>
                 </ul>

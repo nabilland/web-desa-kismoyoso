@@ -80,6 +80,10 @@ Route::get('/umkm/tauge', function () {
     return view('umkm.tauge');
 })->name('tauge');
 
+// BERITA
+Route::get('/berita', function () {
+    return view('berita');
+})->name('berita');
 
 // ABOUT DESA
 Route::get('/tentang-desa/visi-misi', function () {
