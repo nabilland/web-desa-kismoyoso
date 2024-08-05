@@ -4,7 +4,7 @@
 <h2>Potensi Desa</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
+    <li>Kegiatan</li>
     <li>Kebun Gizi</li>
 </ol>
 @endsection
