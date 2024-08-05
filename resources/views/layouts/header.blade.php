@@ -19,6 +19,8 @@
                                     <li><a href="{{ route('jamu-gendong') }}">Jamu Gendong</a></li>
                                     <li><a href="{{ route('tahu') }}">Tahu</a></li>
                                     <li><a href="{{ route('tauge') }}">Tauge</a></li>
+                                    <li><a href="{{ route('kandang-burung') }}">Kandang Burung</a></li>
+                                    <li><a href="{{ route('lilin-aromaterapi') }}">Lilin Aromaterapi</a></li>
                                 </ul>
                             </li>
                         </ul>

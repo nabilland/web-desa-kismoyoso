@@ -1,11 +1,11 @@
 @extends('layouts.layout')
 
 @section('breadcrumbs')
-<h2>Tahu</h2>
+<h2>Kandang Burung</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
     <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
-    <li>Tahu</li>
+    <li>Kandang Burung</li>
 </ol>
 @endsection
 
@@ -20,15 +20,15 @@
                 <div class="portfolio-details-slider swiper">
                     <div class="swiper-wrapper align-items-center">
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tahu.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\kandangburung.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tahu2.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\kandangburung1.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tahu3.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\kandangburung2.jpg') }}" alt="">
                         </div>
 
                     </div>
@@ -40,15 +40,15 @@
                 <div class="portfolio-info">
                     <h3>Informasi UMKM</h3>
                     <ul>
-                        <li><strong>Nama Usaha</strong>: Tahu</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi dan Penjualan Tahu</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Industri Pengolahan Makanan</li>
-                        <li><strong>Kategori Produk</strong>:  Produk Olahan Kedelai</li>
-                        <li><strong>Pemilik</strong>: Ibu Sukini</li>
-                        <li><strong>Tahun Berdiri</strong>: 2002</li>
+                        <li><strong>Nama Usaha</strong>: Kandang Burung Pak Wawan</li>
+                        <li><strong>Jenis Kegiatan Usaha</strong>: Pembuatan Kandang Burung</li>
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Kerajinan Tangan</li>
+                        <li><strong>Kategori Produk</strong>: Kandang Burung </li>
+                        <li><strong>Pemilik</strong>: Pak Wawan</li>
+                        <li><strong>Tahun Berdiri</strong>: 2014</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
-                                <a target="_blank" href="https://www.google.com/maps/place/Pabrik+tahu+pak+wahono/@-7.5115163,110.7840516,3a,75y,188.7h,83.02t/data=!3m7!1e1!3m5!1sEhNoy-VrUuXKjMMMCIO9PA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEhNoy-VrUuXKjMMMCIO9PA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D188.7004666629826%26pitch%3D6.983224377587675%26thumbfov%3D90!7i16384!8i8192!4m12!1m5!3m4!2zN8KwMzAnNDAuOSJTIDExMMKwNDcnMDEuNCJF!8m2!3d-7.5113692!4d110.7837253!3m5!1s0x2e7a139a005a11f5:0x9e5fe49ab3943130!8m2!3d-7.5116689!4d110.7841269!16s%2Fg%2F11kfbsdg90?coh=205410&entry=ttu">
+                                <a target="_blank" href="https://www.google.com/maps/@-7.511346,110.7836679,3a,48.3y,83.15h,86.48t/data=!3m7!1e1!3m5!1saIswZwKmfEgwXHE0P6qVMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DaIswZwKmfEgwXHE0P6qVMQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D83.14834686969988%26pitch%3D3.5172561377603984%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu">
                                     <button class="green-button">
                                         <i class="bx bx-map-pin" style="padding-right:2px"></i>
                                         Lihat Peta</button>
@@ -57,7 +57,7 @@
                         </div>
                         <div class="d-flex">
                             <li><strong>Kontak</strong>:
-                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285647904529">
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281228844027">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
@@ -69,24 +69,24 @@
                                 </a> -->
                             </li>
                         </div>
-                        <li><strong>Prestasi</strong>: UMKM Unggulan</li>
+                        <!-- <li><strong>Prestasi</strong>: UMKM Unggulan</li> -->
                     </ul>
-                    <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
+                    <!-- <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
                             Lihat Informasi Selengkapnya
                         </button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="portfolio-description">
-            <h2>Produksi Tahu</h2>
+            <h2>Sekilas Tentang Usaha Pembuatan Kandang Burung</h2>
             <p style="text-align: justify;">
-                Produksi tahu di Desa Kismoyoso dilakukan dengan metode tradisional yang telah diwariskan secara turun-temurun. Proses pembuatan tahu dimulai dengan pemilihan kedelai berkualitas tinggi, yang kemudian direndam dan digiling untuk menghasilkan bubur kedelai. Bubur kedelai ini kemudian dimasak dan dicampur dengan koagulan alami untuk membentuk gumpalan tahu. Gumpalan tersebut diperas dan dicetak untuk menghasilkan tahu dengan tekstur yang lembut dan cita rasa yang khas.
+                Pak Wawan, seorang pengusaha asal Desa Kismoyoso, telah mengembangkan usaha pembuatan kandang burung yang dimulainya sejak tahun 2014. Usaha ini berfokus pada pembuatan kandang burung sesuai pesanan dengan bahan utama kayu sonokeling dan bambu. Dengan kemampuan dan keterampilan yang diasah sejak kecil, Pak Wawan mampu memproduksi kandang burung yang unik dan berkualitas tinggi, yang dapat diselesaikan dalam waktu satu hingga dua hari per kandang. Kandang-kandang burung hasil karyanya telah tersebar hingga ke berbagai wilayah di Indonesia, termasuk Kalimantan dan Sumatera. 
             </p>
             <p style="text-align: justify;">
-                Para pengusaha tahu di Kismoyoso sangat memperhatikan kebersihan dan kualitas dalam setiap tahap produksi. Penggunaan bahan-bahan alami tanpa bahan pengawet membuat tahu Kismoyoso dikenal sehat dan aman dikonsumsi. Selain dijual di pasar lokal, tahu produksi Kismoyoso juga telah merambah ke berbagai daerah, menunjukkan kualitas dan kepercayaan konsumen terhadap produk ini. Dengan demikian, produksi tahu menjadi salah satu tulang punggung ekonomi desa yang memberikan kontribusi signifikan bagi kesejahteraan masyarakat setempat.
+                Usahanya yang terus berkembang ini juga membantu mengangkat perekonomian masyarakat sekitar dengan melibatkan tenaga kerja lokal dalam proses produksinya. Pak Wawan menjual kandang-kandang burungnya dengan harga bervariasi sesuai ukuran dan model, mulai dari Rp250.000. Beliau menerima pesanan secara langsung dan mempromosikan produknya melalui jaringan pribadi serta media sosial. Meski menjalankan usaha secara mandiri, Pak Wawan kerap mendapat bantuan dari keluarganya untuk memenuhi pesanan yang terus meningkat.
             </p>
             </div>
         </div>

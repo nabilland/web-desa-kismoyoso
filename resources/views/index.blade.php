@@ -210,36 +210,36 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/dummy/tahu.jpg') }}" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <img src="{{ asset('assets/img/tahuu.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Tahu</h4>
                             <p>Kuliner</p>
-                            <a href="{{ asset('assets/img/dummy/tahu.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+                            <a href="{{ asset('assets/img/tahu.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Tahu"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('tahu') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img src="{{ asset('assets/img/kandangburung.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <h4>Kandang Burung</h4>
+                            <p>Kerajinan Tangan</p>
+                            <a href="{{ asset('assets/img/kandangburung.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kandang Burung Pak Wawan"><i class="bx bx-plus"></i></a>
+                            <a href="{{ route('kandang-burung') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                    
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img src="assets/img/lilin2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-5.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <h4>Lilin Aromaterapi</h4>
+                            <p>Kerajinan Tangan dan Daur Ulang</p>
+                            <a href="{{ asset('assets/img/lilin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lilin Aromaterapi"><i class="bx bx-plus"></i></a>
+                            <a href="{{ route('lilin-aromaterapi') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
-                    </div>
-
+                    </div>      
+                    <!-- 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="{{ asset('assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
