@@ -20,7 +20,7 @@
                 <div class="portfolio-details-slider swiper">
                     <div class="swiper-wrapper align-items-center">
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\tauge 6.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
@@ -30,6 +30,19 @@
                         <div class="swiper-slide">
                             <img src="{{ asset('assets\img\tauge3.jpg') }}" alt="">
                         </div>
+
+                        <div class="swiper-slide">
+                            <img src="{{ asset('assets\img\tauge5.jpg') }}" alt="">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="{{ asset('assets\img\tauge.jpg') }}" alt="">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="{{ asset('assets\img\tauge 4.jpg') }}" alt="">
+                        </div>
+
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
@@ -39,15 +52,15 @@
                 <div class="portfolio-info">
                     <h3>Informasi UMKM</h3>
                     <ul>
-                        <li><strong>Nama Usaha</strong>: Tauge</li>
+                        <li><strong>Nama Usaha</strong>: Tauge Ibu Waljinah</li>
                         <li><strong>Jenis Kegiatan Usaha</strong>: Produksi dan Penjualan Tauge</li>
                         <li><strong>Bidang Kegiatan Usaha</strong>: Pertanian dan Hortikultura</li>
                         <li><strong>Kategori Produk</strong>: Sayuran Segar</li>
-                        <li><strong>Pemilik</strong>: Ibu Siti Aminah</li>
+                        <li><strong>Pemilik</strong>: Ibu Waljinah</li>
                         <li><strong>Tahun Berdiri</strong>: 2010</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
-                                <a target="_blank" href="https://maps.app.goo.gl/aAhqAjLrdufsVKbc9">
+                                <a target="_blank" href="https://www.google.co.id/maps/place/Toge+Waljinah/@-7.505473,110.7852953,19z/data=!3m1!4b1!4m6!3m5!1s0x2e7a13e34f9715db:0x6f772cc190295f53!8m2!3d-7.505473!4d110.785939!16s%2Fg%2F11qmqplnxw?entry=ttu">
                                     <button class="green-button">
                                         <i class="bx bx-map-pin" style="padding-right:2px"></i>
                                         Lihat Peta</button>
@@ -56,36 +69,25 @@
                         </div>
                         <div class="d-flex">
                             <li><strong>Kontak</strong>:
-                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285647904529">
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6283865659060">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
                                 </a>
-                                <a href="tel:6285647904529">
-                                    <button class="green-button">
-                                        <i class="bx bx-phone" style="padding-right:2px"></i>
-                                        Hubungi</button>
-                                </a>
                             </li>
                         </div>
-                        <li><strong>Prestasi</strong>: UMKM Unggulan</li>
+                        <!-- <li><strong>Prestasi</strong>: UMKM Unggulan</li> -->
                     </ul>
-                    <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
-                    <div class="d-flex">
-                        <button class="green-button">
-                            <i class="bx bx-info-circle" style="padding-right:2px"></i>
-                            Lihat Informasi Selengkapnya
-                        </button>
-                    </div>
+                    
                 </div>
             </div>
             <div class="portfolio-description">
                 <h2>Produksi Tauge</h2>
                 <p style="text-align: justify;">
-                    Produksi tauge di Desa Kismoyoso dilakukan dengan metode yang higienis dan efisien, memastikan kualitas tauge yang tinggi dan aman untuk dikonsumsi. Proses produksi dimulai dengan pemilihan biji kedelai yang berkualitas, yang kemudian direndam dalam air bersih hingga berkecambah. Proses perendaman dan penumbuhan dilakukan dalam kondisi yang terkontrol untuk memastikan tauge tumbuh dengan baik dan bebas dari kontaminasi.
+                Ibu Waljinah, seorang warga Desa Kismoyoso, telah berjualan tauge selama 14 tahun terakhir di Pasar Gagan. Usaha tauge ini dimulai dari mencuci kacang hijau hingga bersih, merendamnya selama 8 jam, dan menyiramnya setiap 3 jam. Dalam tiga hingga empat hari, tauge siap dipanen dan dijual.
                 </p>
                 <p style="text-align: justify;">
-                    Para pengusaha tauge di Kismoyoso sangat memperhatikan kebersihan dan kualitas dalam setiap tahap produksi. Setelah tauge mencapai ukuran yang diinginkan, mereka dipanen dan dikemas dengan hati-hati untuk menjaga kesegarannya. Tauge dari Kismoyoso tidak hanya dijual di pasar lokal tetapi juga dipasok ke berbagai daerah, menunjukkan kepercayaan dan permintaan yang tinggi dari konsumen. Produksi tauge yang berkelanjutan dan berkualitas tinggi ini berkontribusi signifikan terhadap perekonomian desa dan kesejahteraan para petani lokal.
+                    Ibu Waljinah memproduksi berbagai jenis tauge, termasuk tauge dari kedelai, tauge dari kacang hijau yang kecil untuk rawon dan soto, serta tauge panjang untuk ketoprak dan hidangan lainnya. Setiap hari, Ibu Waljinah berangkat ke Pasar Gagan pada pukul 3 pagi untuk menjual tauge hasil produksinya. Setelah selesai berjualan sekitar pukul 7 pagi, ia kembali ke rumah untuk melanjutkan proses produksi tauge. 
                 </p>
             </div>
         </div>

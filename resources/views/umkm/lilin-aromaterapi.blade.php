@@ -48,7 +48,7 @@
                     <li><strong>Tahun Berdiri</strong>: [Tahun Berdiri]</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
-                                <a target="_blank" href="https://www.google.com/maps/@-7.511346,110.7836679,3a,48.3y,83.15h,86.48t/data=!3m7!1e1!3m5!1saIswZwKmfEgwXHE0P6qVMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DaIswZwKmfEgwXHE0P6qVMQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D83.14834686969988%26pitch%3D3.5172561377603984%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu">
+                                <a target="_blank" href="https://www.google.co.id/maps/@-7.5064426,110.8104673,3a,75y,205.73h,66.13t/data=!3m7!1e1!3m5!1s3u4R_ZzHTYQUXec8GxlRAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3u4R_ZzHTYQUXec8GxlRAQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D205.72653632709583%26pitch%3D23.867378923188483%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu">
                                     <button class="green-button">
                                         <i class="bx bx-map-pin" style="padding-right:2px"></i>
                                         Lihat Peta</button>
