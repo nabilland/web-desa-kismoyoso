@@ -13,7 +13,7 @@
                     <li class="dropdown"><a href="#"><span>Potensi</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="{{ route('potensi-pertanian') }}">Pertanian</a></li>
-                            <li><a href="{{ route('potensi-perkebunan') }}">Perkebunan</a></li>
+                            <!-- <li><a href="{{ route('potensi-perkebunan') }}">Perkebunan</a></li> -->
                             <li class="dropdown"><a class="nav-link scrollto" href="{{ route('umkm') }}"><span>UMKM</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="{{ route('jamu-gendong') }}">Jamu Gendong</a></li>

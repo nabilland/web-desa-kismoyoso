@@ -68,7 +68,7 @@
             <div class="col-lg-4 mt-4 mt-lg-0">
                 <a href="#">
                     <div class="box mb-2" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
+                        <img src="{{ asset('assets/img/sosil-sampah.jpeg') }}" alt="" class="img-fluid">
                         <h4>Sosialisasi Pemanfaatan Barang Bekas</h4>
                         <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik diberikan pemahaman tentang pemanfaatan barang bekas menjadi barang yang memiliki nilai kembali.</p>
                         <br>

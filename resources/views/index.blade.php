@@ -104,7 +104,7 @@
         </section><!-- End Cta Section -->
 
         <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!-- <section id="services" class="services">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
@@ -140,7 +140,7 @@
                 </div>
 
             </div>
-        </section><!-- End Services Section -->
+        </section>End Services Section -->
 
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio">
@@ -175,17 +175,17 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="{{ asset('assets/img/dummy/tauge.jpg') }}" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img src="{{ asset('assets/img/tauge-kismoyoso.jpeg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Tauge</h4>
                             <p>Pertanian & Perkebunan</p>
-                            <a href="{{ asset('assets/img/dummy/tauge.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="{{ asset('assets/img/tauge-kismoyoso.jpeg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Tauge"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('tauge') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="{{ asset('assets/img/tahuu.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Tahu</h4>
@@ -204,7 +204,7 @@
                             <a href="{{ route('kandang-burung') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="assets/img/lilin2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
@@ -213,8 +213,8 @@
                             <a href="{{ asset('assets/img/lilin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lilin Aromaterapi"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('lilin-aromaterapi') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
-                    </div>      
-                    <!-- 
+                    </div>
+                    <!--
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="{{ asset('assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
