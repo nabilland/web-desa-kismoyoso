@@ -79,6 +79,12 @@ Route::get('/umkm/tahu', function () {
 Route::get('/umkm/tauge', function () {
     return view('umkm.tauge');
 })->name('tauge');
+Route::get('/umkm/kandang-burung', function () {
+    return view('umkm.kandang-burung');
+})->name('kandang-burung');
+Route::get('/umkm/lilin-aromaterapi', function () {
+    return view('umkm.lilin-aromaterapi');
+})->name('lilin-aromaterapi');
 
 // BERITA
 Route::get('/berita', function () {
