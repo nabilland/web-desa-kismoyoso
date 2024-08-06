@@ -22,10 +22,10 @@
             <!-- proker 37 -->
             <div class="col-lg-4">
                 <a href="#">
-                    <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/kebun.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> blm ada isi</p>
+                    <div class="box mb-2" data-aos="fade-up">
+                        <img src="{{ asset('assets/img/toga.jpg') }}" alt="" class="img-fluid">
+                        <h4>Sosialisasi Kebun TOGA (Tanaman Obat Keluarga)</h4>
+                        <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 5. Peserta didik tidak hanya diberikan pemahaman tentang TOGA, tetapi juga diajak untuk berinteraksi langsung dengan menanam berbagai jenis tanaman obat.</p>
                         <br>
                     </div>
                 </a>
@@ -45,9 +45,9 @@
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/ecoprint.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> blm ada isi</p>
+                        <img src="{{ asset('assets/img/ecoprint37.jpg') }}" alt="" class="img-fluid">
+                        <h4>Sosialisasi Pembuatan Ecoprint</h4>
+                        <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik tidak hanya diberikan pemahaman tentang <i>ecoprint</i> dengan teknik <i>pounding</i>, tetapi juga berinteraksi langsung dengan membuat <i>ecoprint</i> di atas media tas jinjing (<i>tote bag</i>).</p>
                         <br>
                     </div>
                 </a>
@@ -56,7 +56,7 @@
             <!-- proker 38 -->
             <div class="col-lg-4">
                 <a href="#">
-                    <div class="box" data-aos="fade-up">
+                    <div class="box mb-2" data-aos="fade-up">
                         <img src="{{ asset('assets/img/kebun.jpg') }}" alt="" class="img-fluid">
                         <h4>Revitalisasi Kebun Gizi Lembayung</h4>
                         <p>Revitalisasi ini dilakukan oleh <strong>Kelompok 38 KKN UNS. </strong> Kegiatan ini dilaksanakan di Kebun Gizi Lembayung yang berlokasi di .... </p>
@@ -67,10 +67,10 @@
             <!-- proker 37 -->
             <div class="col-lg-4 mt-4 mt-lg-0">
                 <a href="#">
-                    <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/mewarnai.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> blm ada isi</p>
+                    <div class="box mb-2" data-aos="fade-up">
+                        <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
+                        <h4>Sosialisasi Pemanfaatan Barang Bekas</h4>
+                        <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik diberikan pemahaman tentang pemanfaatan barang bekas menjadi barang yang memiliki nilai kembali.</p>
                         <br>
                     </div>
                 </a>
@@ -91,9 +91,9 @@
             <div class="col-lg-4">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/kebun.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> Kebun Gizi ini berdiri sejak Agustus 2022. Kebun ini berlokasi di Tambas RT 003/RW 007, dan diklaim menjadi Kebun Gizi terbesar se-Boyolali. </p>
+                        <img src="{{ asset('assets/img/celengan.jpeg') }}" alt="" class="img-fluid">
+                        <h4>Sosialisasi Pembuatan Celengan dari Barang Bekas</h4>
+                        <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik berkreasi dengan membuat karya nerupa celengan bekas dengan memanfaatkan botol bekas air mineral.</p>
                         <br>
                     </div>
                 </a>
@@ -112,10 +112,10 @@
             <!-- proker 37 -->
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <a href="#">
-                    <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/ecoprint.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p>Kegiatan ini dilakukan oleh <strong>Kelompok 38 KKN UNS. </strong> Praktik pembuatan lilin aromaterapi dari minyak jelantah ini dilakukan untuk meningkatkan kualitas produk UMKM itu sendiri. UMKM lilin itu sendiri berlokasi di Dusun Padasan</p>
+                    <div class="box mb-2" data-aos="fade-up">
+                        <img src="{{ asset('assets/img/pupuk.jpeg') }}" alt="" class="img-fluid">
+                        <h4>Sosialisasi Pembuatan Pupuk Cair untuk Tanaman Padi</h4>
+                        <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di Dusun Beran dan diikuti oleh warga Dusun Beran. Warga menyaksiksan demo pembuatan pupuk cair untuk tanaman padi dari awal hingga akhir dengan saksama.</p>
                         <br>
                     </div>
                 </a>
@@ -135,9 +135,9 @@
             <div class="col-lg-4 mt-4 mt-lg-0">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/mewarnai.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> Kebun Gizi ini berdiri sejak Agustus 2022. Kebun ini berlokasi di Tambas RT 003/RW 007, dan diklaim menjadi Kebun Gizi terbesar se-Boyolali. </p>
+                        <img src="{{ asset('assets/img/omah-sinau.jpeg') }}" alt="" class="img-fluid">
+                        <h4>Omah Sinau</h4>
+                        <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan untuk peserta didik kelas 6 SD Negeri 1 Kismoyoso dan SD Negeri 2 Kismoyoso. Peserta didik mendapatkan bimbingan belajar untuk mata pelajaran Matematika, IPA, Bahasa Inggris, dan Pendidikan Kewarganegaraan.</p>
                         <br>
                     </div>
                 </a>
@@ -154,13 +154,13 @@
                 </a>
             </div>
 
-             <!-- proker 37 -->
-             <div class="col-lg-4">
+            <!-- proker 37 -->
+            <div class="col-lg-4">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/kebun.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> blm ada isi</p>
+                        <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
+                        <h4>Pembuatan Peta Penggunaan Lahan Desa Kismoyoso</h4>
+                        <p>Pembuatan peta penggunaan lahan ini diinisiasi oleh <strong>Kelompok 37 KKN UNS </strong> yang dipersembahkan untuk Pemerintah Desa Kismoyoso. Pembuatan peta mencakup gambaran penggunaan lahan Dusun I, II, III, dan IV di Desa Kismoyoso.</p>
                         <br>
                     </div>
                 </a>
@@ -180,9 +180,9 @@
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/ecoprint.jpg') }}" alt="" class="img-fluid">
-                        <h4>Proker 37</h4>
-                        <p> blm ada isi</p>
+                        <img src="{{ asset('assets/img/kebun-krikilan.jpeg') }}" alt="" class="img-fluid">
+                        <h4>Pengembangan Kebun Gizi</h4>
+                        <p>Pengembangan kebun gizi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di Kebun Gizi Dusun Krikilan. Tim KKN 37 UNS bersama warga mengembangkan kebun gizi di atas lahan milik umum yang dapat digunakan untuk meningkatkan kesejahteraan warga.</p>
                         <br>
                     </div>
                 </a>
@@ -192,9 +192,9 @@
             <div class="col-lg-4">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/kebun.jpg') }}" alt="" class="img-fluid">
+                        <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
                         <h4>Rebranding Website Desa</h4>
-                        <p>Pembuatan Website Desa Kismoyoso ini dilakukan oleh <strong>Gabungan Prodi Informatika Kelompok 37 dan 38 KKN UNS. </strong> Tujuan dari Rebranding ini sendiri dilakukan untuk memperbarui data desa.</p>
+                        <p>Pembuatan website Desa Kismoyoso ini dilakukan oleh <strong>Gabungan Prodi Informatika Kelompok 37 dan 38 KKN UNS </strong> yang dipersembahkan untuk Pemerintah Desa Kismoyoso. Tujuan dari rebranding ini sendiri dilakukan untuk meningkatkan fungsionalitas website yang sudah ada dan menyediakan platform penghubung Desa Kismoyoso dengan masyarakat lokal maupun umum.</p>
                         <br>
                     </div>
                 </a>
@@ -203,7 +203,7 @@
             <div class="col-lg-4 mt-4 mt-lg-0">
                 <a href="#">
                     <div class="box" data-aos="fade-up">
-                        <img src="{{ asset('assets/img/mewarnai.jpg') }}" alt="" class="img-fluid">
+                        <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
                         <h4>Proker 37</h4>
                         <p> blm ada isi</p>
                         <br>

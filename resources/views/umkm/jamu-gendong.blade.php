@@ -42,22 +42,22 @@
                     <h3>Informasi UMKM</h3>
                     <ul>
                         <li><strong>Nama Usaha</strong>: Jamu Gendong</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Menengah</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Pangan dan Minuman</li>
-                        <li><strong>Kategori Produk</strong>: Minuman Kesehatan, Produk Herbal, atau Minuman Tradisional</li>
+                        <!-- <li><strong>Jenis Kegiatan Usaha</strong>: Menengah</li> -->
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Kesehatan</li>
+                        <li><strong>Kategori Produk</strong>: Produk Herbal atau Minuman Tradisional</li>
                         <li><strong>Produk Unggulan</strong>: Jamu</li>
-                        <li><strong>Pemilik</strong>: John Doe</li>
-                        <li><strong>Tahun Berdiri</strong>: 01 March, 2020</li>
-                        <div class="d-flex">
+                        <!-- <li><strong>Pemilik</strong>: Ibu Suti</li> -->
+                        <!-- <li><strong>Tahun Berdiri</strong>: 01 March, 2020</li> -->
+                        <!-- <div class="d-flex">
                             <li><strong>Lokasi</strong>:
                                 <a target="_blank" href="https://maps.app.goo.gl/aAhqAjLrdufsVKbc9">
                                     <button class="green-button">
                                         <i class="bx bx-map-pin" style="padding-right:2px"></i>
-                                        Lihat Peta</button>
+                                        Lihat di Peta</button>
                                 </a>
                             </li>
-                        </div>
-                        <div class="d-flex">
+                        </div> -->
+                        <!-- <div class="d-flex">
                             <li><strong>Kontak</strong>: +6281-234-567-891
                                 <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281234567891">
                                     <button class="green-button">
@@ -65,22 +65,22 @@
                                         WhatsApp</button>
                                 </a>
                             </li>
-                        </div>
-                        <li><strong>Prestasi</strong>: UMKM Unggulan</li>
+                        </div> -->
+                        <!-- <li><strong>Prestasi</strong>: UMKM Unggulan</li> -->
                     </ul>
-                    <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
+                    <!-- <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
                             Lihat Informasi Selengkapnya
                         </button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Jamu Gendong XYZ</h2>
+                <h2>Jamu Gendong</h2>
                 <p>
-                    Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                    Daerah yang terkenal dengan potensi jamu tradisionalnya yaitu Kabupaten Boyolali, khususnya di Desa Kismoyoso. Puluhan warga Desa Kismoyoso, Kecamatan Ngemplak, Kabupaten Boyolali, Jawa Tengah, hingga kini masih setia menekuni usaha pembuatan jamu tradisional.
                 </p>
             </div>
         </div>
