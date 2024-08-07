@@ -104,20 +104,20 @@
         </section><!-- End Cta Section -->
 
         <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!-- <section id="services" class="services">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
-                    <h2>Layanan</h2>
-                    <h3><span>Layanan</span> Pemerintahan</h3>
-                    <p>Berbagai layanan pemerintahan untuk mempermudah kebutuhan administrasi dan pelayanan publik.</p>
+                    <h2>Program</h2>
+                    <h3><span>Program</span> Pemerintahan</h3>
+                    <p>Berbagai program dari pemerintah untuk meningkatkan kesejahteraan masyarakat dan mencapai tujuan bersama.</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                         <div class="icon-box" data-aos="zoom-in">
-                            <div class="icon"><i class="bx bx-book-open"></i></div>
-                            <h4><a href="">Administrasi Kependudukan</a></h4>
+                            <div class="icon"><i class="bx bx-store"></i></div>
+                            <h4><a href="">Ekonomi</a></h4>
                             <p>Pembuatan dan pengelolaan dokumen penting seperti Kartu Keluarga (KK), Kartu Tanda Penduduk (KTP), akta kelahiran, dan akta kematian.</p>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4><a href="">Perizinan</a></h4>
+                            <h4><a href="">Infrastruktur</a></h4>
                             <p>Perizinan untuk berbagai keperluan, termasuk izin mendirikan bangunan (IMB), izin usaha, dan izin keramaian.</p>
                         </div>
                     </div>
@@ -137,35 +137,10 @@
                             <p>Pemberian bantuan kepada warga kurang mampu, penyaluran bantuan sosial dari pemerintah, serta program-program pemberdayaan masyarakat.</p>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                        <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-                            <div class="icon"><i class="bx bx-import"></i></div>
-                            <h4><a href="">Pengaduan Masyarakat</a></h4>
-                            <p>Saluran bagi warga untuk menyampaikan keluhan, saran, atau masukan terkait pelayanan publik dan masalah di lingkungan desa.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                        <div class="icon-box" data-aos="zoom-in" data-aos-delay="400">
-                            <div class="icon"><i class="bx bx-slideshow"></i></div>
-                            <h4><a href="">Informasi Publik</a></h4>
-                            <p>Akses mudah dan transparan terhadap informasi yang berkaitan dengan kebijakan, program, dan kegiatan pemerintah desa.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                        <div class="icon-box" data-aos="zoom-in" data-aos-delay="500">
-                            <div class="icon"><i class="bx bx-arch"></i></div>
-                            <h4><a href="">Pembangunan Desa</a></h4>
-                            <p>Perencanaan dan pelaksanaan berbagai proyek pembangunan infrastruktur, seperti jalan, fasilitas umum, dan sarana prasarana lainnya.</p>
-                        </div>
-                    </div>
-
                 </div>
 
             </div>
-        </section><!-- End Services Section -->
+        </section>End Services Section -->
 
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio">
@@ -210,7 +185,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="{{ asset('assets/img/tahuu.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Tahu</h4>
@@ -229,7 +204,7 @@
                             <a href="{{ route('kandang-burung') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="assets/img/lilin2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
@@ -238,8 +213,8 @@
                             <a href="{{ asset('assets/img/lilin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lilin Aromaterapi"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('lilin-aromaterapi') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
-                    </div>      
-                    <!-- 
+                    </div>
+                    <!--
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <img src="{{ asset('assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
