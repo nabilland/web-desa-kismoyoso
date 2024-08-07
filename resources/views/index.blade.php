@@ -175,12 +175,12 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/tauge-kismoyoso.jpeg') }}" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <img src="{{ asset('assets/img/tauge 6.jpg') }}" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Tauge</h4>
                             <p>Pertanian & Perkebunan</p>
-                            <a href="{{ asset('assets/img/tauge-kismoyoso.jpeg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Tauge"><i class="bx bx-plus"></i></a>
+                            <a href="{{ asset('assets/img/tauge 6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('tauge') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
