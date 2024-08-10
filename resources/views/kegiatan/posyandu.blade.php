@@ -59,12 +59,12 @@
                         </div>
                         <!-- <div class="d-flex">
                             <li><strong>Kontak</strong>:
-                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285647904529">
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
                                 </a> -->
-                                <!-- <a href="tel:6285647904529">
+                                <!-- <a href="tel:">
                                     <button class="green-button">
                                         <i class="bx bx-phone" style="padding-right:2px"></i>
                                         Hubungi</button>

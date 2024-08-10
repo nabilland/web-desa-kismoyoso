@@ -68,7 +68,7 @@ Route::get('/potensi/perkebunan', function () {
 })->name('potensi-perkebunan');
 
 // UMKM
-Route::get('/#portfolio', function () {
+Route::get('/#umkm', function () {
 })->name('umkm');
 Route::get('/umkm/jamu-gendong', function () {
     return view('umkm.jamu-gendong');

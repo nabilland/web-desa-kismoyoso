@@ -4,7 +4,7 @@
 <h2>Jamu Gendong</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
+    <li><a href="{{ url('/#umkm')}}">UMKM</a></li>
     <li>Jamu Gendong</li>
 </ol>
 @endsection
@@ -78,9 +78,12 @@
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Jamu Gendong</h2>
+                <h2>Produksi Jamu Gendong</h2>
                 <p>
                     Daerah yang terkenal dengan potensi jamu tradisionalnya yaitu Kabupaten Boyolali, khususnya di Desa Kismoyoso. Puluhan warga Desa Kismoyoso, Kecamatan Ngemplak, Kabupaten Boyolali, Jawa Tengah, hingga kini masih setia menekuni usaha pembuatan jamu tradisional.
+                </p>
+                <p>
+                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
                 </p>
             </div>
         </div>

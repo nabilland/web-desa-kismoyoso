@@ -14,8 +14,8 @@
         <div class="row">
             <div class="portfolio-description">
                 <h2 data-aos="fade-left">Lokasi Geografis</h2>
-                <div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15921.83060682482!2d110.79090012024099!3d-7.506429186617664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a13dd20728b07%3A0x1213d42f9b6cff7!2sKismoyoso%2C%20Ngemplak%2C%20Boyolali%20Regency%2C%20Central%20Java!5e0!3m2!1sen!2sid!4v1720927291218!5m2!1sen!2sid" width="100%" height="270px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class="mb-3">
+                    <img src="{{ asset('assets/img/map.gif') }}" width="60%" alt="">
                 </div>
                 <div class="container grey-block p-3" data-aos="fade-in">
                     <p style="text-align: justify;">
@@ -72,6 +72,7 @@
                         <li>Dukuh Ngingas</li>
                         <li>Dukuh Banjarejo</li>
                         <li>Dukuh Kedungdowo</li>
+                        <li>Dukuh Kedungmasan</li>
                     </ol>
                     <p style="text-align: justify;">
                         Setiap dusun di <b>Desa Kismoyoso</b> memiliki karakteristik dan potensi masing-masing, yang turut mendukung kehidupan sosial dan ekonomi masyarakat desa. Pembagian wilayah ini juga mempermudah koordinasi dalam pemerintahan desa dan penyelenggaraan pelayanan publik.

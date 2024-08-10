@@ -4,7 +4,7 @@
 <h2>Tauge</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
+    <li><a href="{{ url('/#umkm')}}">UMKM</a></li>
     <li>Tauge</li>
 </ol>
 @endsection
@@ -78,20 +78,22 @@
                         </div>
                         <!-- <li><strong>Prestasi</strong>: UMKM Unggulan</li> -->
                     </ul>
-                    
+
                 </div>
             </div>
             <div class="portfolio-description">
                 <h2>Produksi Tauge</h2>
                 <p style="text-align: justify;">
-                Ibu Waljinah, seorang warga Desa Kismoyoso, telah berjualan tauge selama 14 tahun terakhir di Pasar Gagan. Usaha tauge ini dimulai dari mencuci kacang hijau hingga bersih, merendamnya selama 8 jam, dan menyiramnya setiap 3 jam. Dalam tiga hingga empat hari, tauge siap dipanen dan dijual.
+                    Ibu Waljinah, seorang warga Desa Kismoyoso, telah berjualan tauge selama 14 tahun terakhir di Pasar Gagan. Proses pembuatan tauge yang beliau lakukan dimulai dengan mencuci kacang hijau hingga bersih, merendamnya selama 8 jam, dan menyiramnya setiap 3 jam. Dalam tiga hingga empat hari, tauge siap dipanen dan dijual.
                 </p>
                 <p style="text-align: justify;">
-                    Ibu Waljinah memproduksi berbagai jenis tauge, termasuk tauge dari kedelai, tauge dari kacang hijau yang kecil untuk rawon dan soto, serta tauge panjang untuk ketoprak dan hidangan lainnya. Setiap hari, Ibu Waljinah berangkat ke Pasar Gagan pada pukul 3 pagi untuk menjual tauge hasil produksinya. Setelah selesai berjualan sekitar pukul 7 pagi, ia kembali ke rumah untuk melanjutkan proses produksi tauge. 
+                    Ibu Waljinah memproduksi berbagai jenis tauge, termasuk tauge dari kedelai, tauge dari kacang hijau kecil yang sering digunakan dalam masakan seperti rawon dan soto, serta tauge panjang yang menjadi bahan utama dalam hidangan seperti ketoprak dan lainnya. Setiap hari, beliau berangkat ke Pasar Gagan pada pukul 3 pagi untuk menjual tauge hasil produksinya. Setelah selesai berjualan sekitar pukul 7 pagi, Ibu Waljinah kembali ke rumah untuk melanjutkan proses produksi tauge.
+                </p>
+                <p>
+                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
                 </p>
             </div>
         </div>
-
     </div>
 
     </div>

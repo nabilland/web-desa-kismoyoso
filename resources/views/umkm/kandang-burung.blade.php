@@ -4,7 +4,7 @@
 <h2>Kandang Burung</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
+    <li><a href="{{ url('/#umkm')}}">UMKM</a></li>
     <li>Kandang Burung</li>
 </ol>
 @endsection
@@ -62,7 +62,7 @@
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
                                 </a>
-                                <!-- <a href="tel:6285647904529">
+                                <!-- <a href="tel:">
                                     <button class="green-button">
                                         <i class="bx bx-phone" style="padding-right:2px"></i>
                                         Hubungi</button>
@@ -81,13 +81,16 @@
                 </div>
             </div>
             <div class="portfolio-description">
-            <h2>Sekilas Tentang Usaha Pembuatan Kandang Burung</h2>
-            <p style="text-align: justify;">
-                Pak Wawan, seorang pengusaha asal Desa Kismoyoso, telah mengembangkan usaha pembuatan kandang burung yang dimulainya sejak tahun 2014. Usaha ini berfokus pada pembuatan kandang burung sesuai pesanan dengan bahan utama kayu sonokeling dan bambu. Dengan kemampuan dan keterampilan yang diasah sejak kecil, Pak Wawan mampu memproduksi kandang burung yang unik dan berkualitas tinggi, yang dapat diselesaikan dalam waktu satu hingga dua hari per kandang. Kandang-kandang burung hasil karyanya telah tersebar hingga ke berbagai wilayah di Indonesia, termasuk Kalimantan dan Sumatera. 
-            </p>
-            <p style="text-align: justify;">
-                Usahanya yang terus berkembang ini juga membantu mengangkat perekonomian masyarakat sekitar dengan melibatkan tenaga kerja lokal dalam proses produksinya. Pak Wawan menjual kandang-kandang burungnya dengan harga bervariasi sesuai ukuran dan model, mulai dari Rp250.000. Beliau menerima pesanan secara langsung dan mempromosikan produknya melalui jaringan pribadi serta media sosial. Meski menjalankan usaha secara mandiri, Pak Wawan kerap mendapat bantuan dari keluarganya untuk memenuhi pesanan yang terus meningkat.
-            </p>
+                <h2>Sekilas Tentang Usaha Pembuatan Kandang Burung</h2>
+                <p style="text-align: justify;">
+                    Pak Wawan, seorang pengusaha asal Desa Kismoyoso, telah mengembangkan usaha pembuatan kandang burung sejak tahun 2014. Usaha ini berfokus pada pembuatan kandang burung sesuai pesanan, menggunakan bahan utama kayu sonokeling dan bambu. Dengan keterampilan yang diasah sejak kecil, Pak Wawan mampu memproduksi kandang burung yang unik dan berkualitas tinggi, yang dapat diselesaikan dalam waktu satu hingga dua hari per kandang. Kandang-kandang hasil karyanya telah tersebar ke berbagai wilayah di Indonesia, termasuk Kalimantan dan Sumatera.
+                </p>
+                <p style="text-align: justify;">
+                    Pak Wawan menjual kandang burung dengan harga bervariasi sesuai ukuran dan model, mulai dari Rp250.000. Beliau menerima pesanan secara langsung dan mempromosikan produknya melalui jaringan pribadi. Meski menjalankan usaha secara mandiri, Pak Wawan kerap mendapatkan bantuan dari keluarganya untuk memenuhi pesanan yang terus meningkat.
+                </p>
+                <p>
+                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                </p>
             </div>
         </div>
 

@@ -143,7 +143,7 @@
         </section>End Services Section -->
 
         <!-- ======= Portfolio Section ======= -->
-        <section id="portfolio" class="portfolio">
+        <section id="umkm" class="portfolio">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
@@ -164,9 +164,10 @@
                 </div>
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" class="img-fluid" alt="">
+                        <a href="{{ route('jamu-gendong') }}">
+                            <img src="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" class="img-fluid" alt="">
+                        </a>
                         <div class="portfolio-info">
                             <h4>Jamu Gendong</h4>
                             <p>Kuliner</p>
@@ -175,8 +176,10 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="{{ asset('assets/img/tauge 6.jpg') }}" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <a href="{{ route('tauge') }}">
+                            <img src="{{ asset('assets/img/tauge 6.jpg') }}" class="img-fluid" alt="">
+                        </a>
                         <div class="portfolio-info">
                             <h4>Tauge</h4>
                             <p>Pertanian & Perkebunan</p>
@@ -185,8 +188,10 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/tahuu.jpg') }}" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <a href="{{ route('tahu') }}">
+                            <img src="{{ asset('assets/img/tahuu.jpg') }}" class="img-fluid" alt="">
+                        </a>
                         <div class="portfolio-info">
                             <h4>Tahu</h4>
                             <p>Kuliner</p>
@@ -196,7 +201,9 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/kandangburung.jpg') }}" class="img-fluid" alt="">
+                        <a href="{{ route('kandang-burung') }}">
+                            <img src="{{ asset('assets/img/kandangburung.jpg') }}" class="img-fluid" alt="">
+                        </a>
                         <div class="portfolio-info">
                             <h4>Kandang Burung</h4>
                             <p>Kerajinan Tangan</p>
@@ -206,7 +213,9 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="assets/img/lilin2.jpg" class="img-fluid" alt="">
+                        <a href="{{ route('lilin-aromaterapi') }}">
+                            <img src="assets/img/lilin2.jpg" class="img-fluid" alt="">
+                        </a>
                         <div class="portfolio-info">
                             <h4>Lilin Aromaterapi</h4>
                             <p>Kerajinan Tangan dan Daur Ulang</p>
@@ -214,49 +223,19 @@
                             <a href="{{ route('lilin-aromaterapi') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
-                    <!--
+
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
+                        <a href="{{ route('lilin-aromaterapi') }}">
+                            <img src="assets/img/dummy/gamelan.jpg" class="img-fluid" alt="">
+                        </a>
                         <div class="portfolio-info">
-                            <h4>App 3</h4>
-                            <p>App</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <h4>Gamelan</h4>
+                            <p>Alat Musik Tradisional</p>
+                            <a href="{{ asset('assets/img/dummy/gamelan.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lilin Aromaterapi"><i class="bx bx-plus"></i></a>
+                            <a href="{{ route('lilin-aromaterapi') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-7.jpg') }}" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 1</h4>
-                            <p>Card</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-7.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-8.jpg') }}" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 3</h4>
-                            <p>Card</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-8.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="{{ asset('assets/img/portfolio/portfolio-9.jpg') }}" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <a href="{{ asset('assets/img/portfolio/portfolio-9.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div> -->
-
                 </div>
-
             </div>
         </section><!-- End Portfolio Section -->
 
@@ -330,7 +309,7 @@
                 <div class="section-title" data-aos="zoom-in">
                     <h2>Kontak</h2>
                     <h3>Informasi <span>Kontak</span> Desa Kismoyoso</h3>
-                    <p>Untuk pertanyaan, saran, atau informasi Desa Kismoyoso lebih lanjut, silakan hubungi kami melalui kontak di bawah ini.</p>
+                    <p>Untuk informasi Desa Kismoyoso lebih lanjut, silakan hubungi kontak di bawah ini.</p>
                 </div>
 
                 <div>
@@ -363,18 +342,15 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Telepon:</h4>
-                                <p>+62 895-3201-70201</p>
+                                <a href="tel:+62895320170201">
+                                    <p>+62 895-3201-70201</p>
+                                </a>
                             </div>
-
                         </div>
-
                     </div>
-
                 </div>
-
             </div>
         </section><!-- End Contact Section -->
-
     </main><!-- End #main -->
 
     @include('layouts.footer')

@@ -4,7 +4,7 @@
 <h2>Tahu</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
+    <li><a href="{{ url('/#umkm')}}">UMKM</a></li>
     <li>Tahu</li>
 </ol>
 @endsection
@@ -43,7 +43,7 @@
                         <li><strong>Nama Usaha</strong>: Tahu</li>
                         <li><strong>Jenis Kegiatan Usaha</strong>: Produksi dan Penjualan Tahu</li>
                         <li><strong>Bidang Kegiatan Usaha</strong>: Industri Pengolahan Makanan</li>
-                        <li><strong>Kategori Produk</strong>:  Produk Olahan Kedelai</li>
+                        <li><strong>Kategori Produk</strong>: Produk Olahan Kedelai</li>
                         <li><strong>Pemilik</strong>: Ibu Sukini</li>
                         <li><strong>Tahun Berdiri</strong>: 2002</li>
                         <div class="d-flex">
@@ -57,37 +57,42 @@
                         </div>
                         <div class="d-flex">
                             <li><strong>Kontak</strong>:
-                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285647904529">
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6282325240566">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
                                 </a>
-                                <!-- <a href="tel:6285647904529">
+                                <!-- <a href="tel:">
                                     <button class="green-button">
                                         <i class="bx bx-phone" style="padding-right:2px"></i>
                                         Hubungi</button>
                                 </a> -->
                             </li>
                         </div>
-                        <li><strong>Prestasi</strong>: UMKM Unggulan</li>
                     </ul>
-                    <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
+                    <!-- <h3 style="padding-top:20px;">Paguyuban UMKM</h3>
                     <div class="d-flex">
                         <button class="green-button">
                             <i class="bx bx-info-circle" style="padding-right:2px"></i>
                             Lihat Informasi Selengkapnya
                         </button>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="portfolio-description">
-            <h2>Produksi Tahu</h2>
-            <p style="text-align: justify;">
-                Produksi tahu di Desa Kismoyoso dilakukan dengan metode tradisional yang telah diwariskan secara turun-temurun. Proses pembuatan tahu dimulai dengan pemilihan kedelai berkualitas tinggi, yang kemudian direndam dan digiling untuk menghasilkan bubur kedelai. Bubur kedelai ini kemudian dimasak dan dicampur dengan koagulan alami untuk membentuk gumpalan tahu. Gumpalan tersebut diperas dan dicetak untuk menghasilkan tahu dengan tekstur yang lembut dan cita rasa yang khas.
-            </p>
-            <p style="text-align: justify;">
-                Para pengusaha tahu di Kismoyoso sangat memperhatikan kebersihan dan kualitas dalam setiap tahap produksi. Penggunaan bahan-bahan alami tanpa bahan pengawet membuat tahu Kismoyoso dikenal sehat dan aman dikonsumsi. Selain dijual di pasar lokal, tahu produksi Kismoyoso juga telah merambah ke berbagai daerah, menunjukkan kualitas dan kepercayaan konsumen terhadap produk ini. Dengan demikian, produksi tahu menjadi salah satu tulang punggung ekonomi desa yang memberikan kontribusi signifikan bagi kesejahteraan masyarakat setempat.
-            </p>
+                <h2>Produksi Tahu</h2>
+                <p style="text-align: justify;">
+                    Produksi tahu di Desa Kismoyoso menggunakan metode tradisional yang telah diwariskan secara turun-temurun. Bahan-bahan yang digunakan dipilih dengan cermat, hanya menggunakan kedelai berkualitas tinggi yang diperoleh dari produsen terpercaya. Proses pembuatan tahu dimulai dengan seleksi kedelai berkualitas, yang kemudian direndam dan digiling hingga menjadi bubur kedelai. Bubur ini dimasak dan dicampur dengan koagulan alami untuk membentuk gumpalan tahu. Gumpalan tersebut kemudian diperas dan dicetak, menghasilkan tahu dengan tekstur lembut dan cita rasa yang khas.
+                </p>
+                <p style="text-align: justify;">
+                    Rumah produksi ini melayani pesanan tahu dari berbagai pedagang, termasuk mereka yang berdagang di pasar-pasar Kota Solo. Selain tahu putih mentah, mereka juga memproduksi berbagai olahan tahu seperti tahu Sumedang dan tahu susu. Kapasitas produksi harian rumah ini bisa mencapai 8-9 kuintal tahu.
+                </p>
+                <p style="text-align: justify;">
+                    Komitmen lingkungan juga menjadi prioritas, di mana limbah padat dan cair dari produksi diolah dengan baik sebelum dibuang, untuk memastikan tidak ada pencemaran lingkungan.
+                </p>
+                <p>
+                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                </p>
             </div>
         </div>
 
