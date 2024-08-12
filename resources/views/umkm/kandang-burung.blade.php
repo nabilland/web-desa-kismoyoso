@@ -56,7 +56,7 @@
                             </li>
                         </div>
                         <div class="d-flex">
-                            <li><strong>Kontak</strong>:
+                            <li><strong>Kontak</strong>: +6281-228-844-027
                                 <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281228844027">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
@@ -87,6 +87,9 @@
                 </p>
                 <p style="text-align: justify;">
                     Pak Wawan menjual kandang burung dengan harga bervariasi sesuai ukuran dan model, mulai dari Rp250.000. Beliau menerima pesanan secara langsung dan mempromosikan produknya melalui jaringan pribadi. Meski menjalankan usaha secara mandiri, Pak Wawan kerap mendapatkan bantuan dari keluarganya untuk memenuhi pesanan yang terus meningkat.
+                </p>
+                <p style="text-align: justify;">
+                    Usahanya yang terus berkembang ini juga membantu mengangkat perekonomian masyarakat sekitar dengan melibatkan tenaga kerja lokal dalam proses produksinya. Pak Wawan menjual kandang-kandang burungnya dengan harga bervariasi sesuai ukuran dan model, mulai dari Rp250.000. Beliau menerima pesanan secara langsung dan mempromosikan produknya melalui jaringan pribadi serta media sosial. Meski menjalankan usaha secara mandiri, Pak Wawan kerap mendapat bantuan dari keluarganya untuk memenuhi pesanan yang terus meningkat.
                 </p>
                 <p>
                     Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
