@@ -68,7 +68,7 @@ Route::get('/potensi/perkebunan', function () {
 })->name('potensi-perkebunan');
 
 // UMKM
-Route::get('/#umkm', function () {
+Route::get('/#portfolio', function () {
 })->name('umkm');
 Route::get('/umkm/jamu-gendong', function () {
     return view('umkm.jamu-gendong');
@@ -85,6 +85,9 @@ Route::get('/umkm/kandang-burung', function () {
 Route::get('/umkm/lilin-aromaterapi', function () {
     return view('umkm.lilin-aromaterapi');
 })->name('lilin-aromaterapi');
+Route::get('/umkm/gamelan', function () {
+    return view('umkm.gamelan');
+})->name('gamelan');
 
 // BERITA
 Route::get('/berita', function () {

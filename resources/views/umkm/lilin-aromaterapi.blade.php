@@ -40,12 +40,12 @@
                 <div class="portfolio-info">
                     <h3>Informasi UMKM</h3>
                     <ul>
-                        <li><strong>Nama Usaha</strong>: Padasan Craft - Lilin Aromaterapi</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Pembuatan Lilin Aromaterapi</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Kerajinan Tangan dan Daur Ulang</li>
-                        <li><strong>Kategori Produk</strong>: Lilin Aromaterapi dari Minyak Jelantah</li>
-                        <li><strong>Pemilik</strong>: [Nama Pemilik]</li>
-                        <li><strong>Tahun Berdiri</strong>: [Tahun Berdiri]</li>
+                    <li><strong>Nama Usaha</strong>: Padasan Craft - Lilin Aromaterapi</li>
+                    <li><strong>Jenis Kegiatan Usaha</strong>: Pembuatan Lilin Aromaterapi</li>
+                    <li><strong>Bidang Kegiatan Usaha</strong>: Kerajinan Tangan dan Daur Ulang</li>
+                    <li><strong>Kategori Produk</strong>: Lilin Aromaterapi dari Minyak Jelantah</li>
+                    <li><strong>Pemilik</strong>: Ibu Qurrotul Aini </li>
+                    <li><strong>Tahun Berdiri</strong>: 2023</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
                                 <a target="_blank" href="https://www.google.co.id/maps/@-7.5064426,110.8104673,3a,75y,205.73h,66.13t/data=!3m7!1e1!3m5!1s3u4R_ZzHTYQUXec8GxlRAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3u4R_ZzHTYQUXec8GxlRAQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D205.72653632709583%26pitch%3D23.867378923188483%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu">
@@ -56,13 +56,13 @@
                             </li>
                         </div>
                         <div class="d-flex">
-                            <li><strong>Kontak</strong>:
-                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281228844027">
+                            <li><strong>Kontak</strong>: +6289-5363-132-039
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=62895363132039">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
                                 </a>
-                                <!-- <a href="tel:">
+                                <!-- <a href="tel:6285647904529">
                                     <button class="green-button">
                                         <i class="bx bx-phone" style="padding-right:2px"></i>
                                         Hubungi</button>

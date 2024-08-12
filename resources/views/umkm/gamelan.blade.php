@@ -1,11 +1,11 @@
 @extends('layouts.layout')
 
 @section('breadcrumbs')
-<h2>Tauge</h2>
+<h2>Gamelan</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li><a href="{{ url('/#umkm')}}">UMKM</a></li>
-    <li>Tauge</li>
+    <li><a href="{{ url('/#portfolio')}}">UMKM</a></li>
+    <li>Gamelan</li>
 </ol>
 @endsection
 
@@ -20,7 +20,7 @@
                 <div class="portfolio-details-slider swiper">
                     <div class="swiper-wrapper align-items-center">
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge 6.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/dummy/gamelan.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
@@ -52,12 +52,12 @@
                 <div class="portfolio-info">
                     <h3>Informasi UMKM</h3>
                     <ul>
-                        <li><strong>Nama Usaha</strong>: Tauge Ibu Waljinah</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi dan Penjualan Tauge</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Pertanian dan Hortikultura</li>
-                        <li><strong>Kategori Produk</strong>: Sayuran Segar</li>
-                        <li><strong>Pemilik</strong>: Ibu Waljinah</li>
-                        <li><strong>Tahun Berdiri</strong>: 2010</li>
+                        <li><strong>Nama Usaha</strong>: Gamelan</li>
+                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi Gamelan</li>
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Kerajinan dan Seni</li>
+                        <li><strong>Kategori Produk</strong>: Alat Musik Tradisional</li>
+                        <li><strong>Pemilik</strong>: Pak Samijan</li>
+                        <li><strong>Tahun Berdiri</strong>: -</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
                                 <a target="_blank" href="https://www.google.co.id/maps/place/Toge+Waljinah/@-7.505473,110.7852953,19z/data=!3m1!4b1!4m6!3m5!1s0x2e7a13e34f9715db:0x6f772cc190295f53!8m2!3d-7.505473!4d110.785939!16s%2Fg%2F11qmqplnxw?entry=ttu">
@@ -68,8 +68,8 @@
                             </li>
                         </div>
                         <div class="d-flex">
-                            <li><strong>Kontak</strong>: +6283-865-659-060
-                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6283865659060">
+                            <li><strong>Kontak</strong>: +62813-9258-8903
+                                <a target="_blank" href="https://api.whatsapp.com/send/?phone=6281392588903">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
                                         Chat via WhatsApp</button>
@@ -78,22 +78,20 @@
                         </div>
                         <!-- <li><strong>Prestasi</strong>: UMKM Unggulan</li> -->
                     </ul>
-
+                    
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Produksi Tauge</h2>
+                <h2>Produksi Gamelan</h2>
                 <p style="text-align: justify;">
-                    Ibu Waljinah, seorang warga Desa Kismoyoso, telah berjualan tauge selama 14 tahun terakhir di Pasar Gagan. Proses pembuatan tauge yang beliau lakukan dimulai dengan mencuci kacang hijau hingga bersih, merendamnya selama 8 jam, dan menyiramnya setiap 3 jam. Dalam tiga hingga empat hari, tauge siap dipanen dan dijual.
+                    Pak Samijan, seorang pengrajin gamelan dari Desa Kismoyoso, telah lama dikenal sebagai sosok penting dalam pembuatan alat musik tradisional Jawa. Dengan lokasi usaha yang strategis, gamelan yang dihasilkan oleh Pak Samijan dikenal memiliki kualitas unggul.
                 </p>
                 <p style="text-align: justify;">
-                    Ibu Waljinah memproduksi berbagai jenis tauge, termasuk tauge dari kedelai, tauge dari kacang hijau kecil yang sering digunakan dalam masakan seperti rawon dan soto, serta tauge panjang yang menjadi bahan utama dalam hidangan seperti ketoprak dan lainnya. Setiap hari, beliau berangkat ke Pasar Gagan pada pukul 3 pagi untuk menjual tauge hasil produksinya. Setelah selesai berjualan sekitar pukul 7 pagi, Ibu Waljinah kembali ke rumah untuk melanjutkan proses produksi tauge.
-                </p>
-                <p>
-                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                    Keahlian Pak Samijan dalam menciptakan gamelan berkualitas tinggi telah menarik perhatian tidak hanya dari masyarakat lokal tetapi juga dari berbagai penjuru. 
                 </p>
             </div>
         </div>
+
     </div>
 
     </div>

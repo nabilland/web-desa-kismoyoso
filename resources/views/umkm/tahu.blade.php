@@ -56,7 +56,7 @@
                             </li>
                         </div>
                         <div class="d-flex">
-                            <li><strong>Kontak</strong>:
+                            <li><strong>Kontak</strong>: +6282-325-240-566
                                 <a target="_blank" href="https://api.whatsapp.com/send/?phone=6282325240566">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>

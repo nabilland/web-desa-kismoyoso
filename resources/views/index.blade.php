@@ -232,7 +232,7 @@
                             <h4>Gamelan</h4>
                             <p>Alat Musik Tradisional</p>
                             <a href="{{ asset('assets/img/dummy/gamelan.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lilin Aromaterapi"><i class="bx bx-plus"></i></a>
-                            <a href="{{ route('lilin-aromaterapi') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <a href="{{ route('gamelan') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 <!-- ======= Header ======= -->
-    <header id="header" class="d-flex align-items-center">
+<header id="header" class="d-flex align-items-center">
         <div class="container d-flex justify-content-between">
 
             <div class="logo" style="display: flex; align-items: center;">
@@ -21,6 +21,7 @@
                                     <li><a href="{{ route('tauge') }}">Tauge</a></li>
                                     <li><a href="{{ route('kandang-burung') }}">Kandang Burung</a></li>
                                     <li><a href="{{ route('lilin-aromaterapi') }}">Lilin Aromaterapi</a></li>
+                                    <li><a href="{{ route('gamelan') }}">Gamelan</a></li>
                                 </ul>
                             </li>
                         </ul>
