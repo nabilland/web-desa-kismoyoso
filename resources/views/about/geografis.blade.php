@@ -50,29 +50,59 @@
                     </p>
                     <b>Dusun I</b>
                     <ol>
-                        <li>Dukuh Beran</li>
-                        <li>Dukuh Tegalan</li>
-                        <li>Dukuh Krikilan</li>
+                        <a target="_blank" class="black-link" href="https://www.google.com/maps/place/Beran/@-7.5063578,110.7851609,18z/data=!4m7!3m6!1s0x2e7a136f67cca793:0x5fb0cc766f7c75c2!4b1!8m2!3d-7.5064349!4d110.7864215!16s%2Fg%2F11q965msmf?entry=ttu">
+                            <li>
+                                Dukuh Beran
+                            </li>
+                        </a>
+                        <a target="_blank" class="black-link" href="https://www.google.com/maps/place/Tegalan,+Kismoyoso,+Ngemplak,+Boyolali+Regency,+Central+Java/@-7.508917,110.7994757,16z/data=!4m6!3m5!1s0x2e7a13ddf4c39e9b:0xef9c8da00446e019!8m2!3d-7.506581!4d110.800158!16s%2Fg%2F11f613wqgk?entry=ttu">
+                            <li>Dukuh Tegalan</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Krikilan</li>
+                        </a>
                     </ol>
                     <b>Dusun II</b>
                     <ol>
-                        <li>Dukuh Ngampo</li>
-                        <li>Dukuh Krajan</li>
-                        <li>Dukuh Grasak</li>
+                        <a target="_blank" class="black-link" href="https://www.google.com/maps/place/Ngampo,+Kismoyoso,+Ngemplak,+Boyolali+Regency,+Central+Java/@-7.5027787,110.803937,16z/data=!3m1!4b1!4m6!3m5!1s0x2e7a13ded26e6dd5:0x21f546bd11f5b034!8m2!3d-7.5013239!4d110.8031382!16s%2Fg%2F11ghndnyfr?entry=ttu">
+                            <li>Dukuh Ngampo</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Krajan</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="https://www.google.com/maps/place/Masjid+At+Taubah+Grasak/@-7.5089988,110.7868037,18z/data=!4m10!1m2!2m1!1sgrasak+kismoyoso!3m6!1s0x2e7a13f8c8af428b:0x30458a25d3d3ea87!8m2!3d-7.5090056!4d110.7891829!15sChBncmFzYWsga2lzbW95b3NvkgEGbW9zcXVl4AEA!16s%2Fg%2F11ghpn1p9b?entry=ttu">
+                            <li>Dukuh Grasak</li>
+                        </a>
                     </ol>
                     <b>Dusun III</b>
                     <ol>
-                        <li>Dukuh Jampen</li>
-                        <li>Dukuh Tambas</li>
-                        <li>Dukuh Karangpun</li>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Jampen</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Tambas</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Karangpun</li>
+                        </a>
                     </ol>
                     <b>Dusun IV</b>
                     <ol>
-                        <li>Dukuh Gambirsari</li>
-                        <li>Dukuh Ngingas</li>
-                        <li>Dukuh Banjarejo</li>
-                        <li>Dukuh Kedungdowo</li>
-                        <li>Dukuh Kedungmasan</li>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Gambirsari</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Ngingas</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Banjarejo</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Kedungdowo</li>
+                        </a>
+                        <a target="_blank" class="black-link" href="#">
+                            <li>Dukuh Kedungmasan</li>
+                        </a>
                     </ol>
                     <p style="text-align: justify;">
                         Setiap dusun di <b>Desa Kismoyoso</b> memiliki karakteristik dan potensi masing-masing, yang turut mendukung kehidupan sosial dan ekonomi masyarakat desa. Pembagian wilayah ini juga mempermudah koordinasi dalam pemerintahan desa dan penyelenggaraan pelayanan publik.

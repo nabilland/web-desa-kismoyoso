@@ -24,6 +24,16 @@ a:hover {
   text-decoration: none;
 }
 
+.black-link {
+  text-decoration: none;
+  color: #444444;
+}
+
+a:hover {
+  color: #a7cd74;
+  text-decoration: none;
+}
+
 h1,
 h2,
 h3,
