@@ -81,7 +81,7 @@
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/celengan.jpeg') }}" alt="" class="img-fluid">
                     <h4>Sosialisasi Pembuatan Celengan dari Barang Bekas</h4>
-                    <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik berkreasi dengan membuat karya nerupa celengan bekas dengan memanfaatkan botol bekas air mineral.</p>
+                    <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik berkreasi dengan membuat karya nerupa celengan bekas dengan memanfaatkan botol plastik bekas air mineral.</p>
                     <br>
                 </div>
             </div>
@@ -162,7 +162,7 @@
             <!-- proker 38 -->
             <div class="col-lg-4">
                 <div class="box" data-aos="fade-up">
-                    <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
+                    <img src="{{ asset('assets/img/web.jpg') }}" alt="" class="img-fluid">
                     <h4>Rebranding Website Desa</h4>
                     <p>Pembuatan website Desa Kismoyoso ini diinisiasi oleh <strong>Gabungan Prodi Informatika Kelompok 37 dan 38 KKN UNS </strong> yang dipersembahkan untuk Pemerintah Desa Kismoyoso. Tujuan dari rebranding ini sendiri dilakukan untuk meningkatkan fungsionalitas website yang sudah ada dan menyediakan platform penghubung Desa Kismoyoso dengan masyarakat lokal maupun umum.</p>
                     <br>
@@ -172,8 +172,8 @@
             <div class="col-lg-4 mt-4 mt-lg-0">
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
-                    <h4>Proker 37</h4>
-                    <p> blm ada isi</p>
+                    <h4>Sosialisasi Roket Air</h4>
+                    <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 1 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 6. Peserta didik tidak hanya diberikan pemahaman tentang pembuatan dan cara kerja roket air, tetapi juga diajak untuk berinteraksi langsung dengan membuat roket dari botol plastik bekas air mineral.</p>
                     <br>
                 </div>
             </div>
