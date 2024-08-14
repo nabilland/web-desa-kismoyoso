@@ -46,17 +46,17 @@
                                     },
                                     yAxis: {
                                         type: 'category',
-                                        data: ['Sarjana', 'Akademi', 'SMA', 'SMP', 'SD', 'TK']
+                                        data: ['Sarjana', 'Diploma', 'SMA', 'SMP', 'SD', 'TK']
                                     },
                                     series: [{
                                             name: 'Laki-Laki',
                                             type: 'bar',
-                                            data: [0, 0, 1317, 1120, 0, 0, 0]
+                                            data: [133, 87, 1127, 900, 1000, 0]
                                         },
                                         {
                                             name: 'Perempuan',
                                             type: 'bar',
-                                            data: [0, 0, 1715, 2413, 0, 0, 0]
+                                            data: [120, 73, 800, 1303, 1577, 0]
                                         }
                                     ]
                                 };
@@ -84,7 +84,7 @@
             <div class="container grey-block p-3 mt-4">
                 <p style="text-align:justify;">
                     Masyarakat <b>Desa Kismoyoso</b> memiliki berbagai tingkat pendidikan yang mencerminkan keragaman latar belakang dan aspirasi. Data di atas menunjukkan distribusi pendidikan berdasarkan gender, mencakup tingkat pendidikan SMP dan SMA.
-                    Dari data yang tersedia, dapat disimpulkan bahwa 1.317 laki-laki telah menempuh pendidikan SMA dan 1.120 lainnya mencapai tingkat SMP. Sementara itu, 1.715 perempuan telah menyelesaikan pendidikan SMA, dan 2.413 lainnya lulus SMP.
+                    Dari data yang tersedia, dapat disimpulkan bahwa 1.127 laki-laki telah menempuh pendidikan SMA dan 900 lainnya mencapai tingkat SMP. Sementara itu, 800 perempuan telah menyelesaikan pendidikan SMA, dan 1.303 lainnya lulus SMP.
                 </p>
             </div>
     </div>
