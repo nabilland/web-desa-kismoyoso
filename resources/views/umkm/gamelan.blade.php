@@ -20,27 +20,23 @@
                 <div class="portfolio-details-slider swiper">
                     <div class="swiper-wrapper align-items-center">
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/dummy/gamelan.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\gamelan.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge2.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\gamelan3.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge3.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\gamelan4.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge5.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\gamelan2.jpg') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge.jpg') }}" alt="">
-                        </div>
-
-                        <div class="swiper-slide">
-                            <img src="{{ asset('assets\img\tauge 4.jpg') }}" alt="">
+                            <img src="{{ asset('assets\img\gamelan5.jpg') }}" alt="">
                         </div>
 
                     </div>
@@ -52,12 +48,12 @@
                 <div class="portfolio-info">
                     <h3>Informasi UMKM</h3>
                     <ul>
-                        <li><strong>Nama Usaha</strong>: Gamelan</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi Gamelan</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Kerajinan dan Seni</li>
-                        <li><strong>Kategori Produk</strong>: Alat Musik Tradisional</li>
+                        <li><strong>Nama Usaha</strong>: Gamelan Pak Samijan</li>
+                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi Gamelan dan Gong</li>
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Industri Kerajinan dan Seni Tradisional</li>
+                        <li><strong>Kategori Produk</strong>: Alat Musik Tradisional Gamelan dan Gong</li>
                         <li><strong>Pemilik</strong>: Pak Samijan</li>
-                        <li><strong>Tahun Berdiri</strong>: -</li>
+                        <li><strong>Tahun Berdiri</strong>: 2004 </li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
                                 <a target="_blank" href="https://www.google.co.id/maps/place/Toge+Waljinah/@-7.505473,110.7852953,19z/data=!3m1!4b1!4m6!3m5!1s0x2e7a13e34f9715db:0x6f772cc190295f53!8m2!3d-7.505473!4d110.785939!16s%2Fg%2F11qmqplnxw?entry=ttu">
@@ -82,12 +78,12 @@
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Produksi Gamelan</h2>
+                <h2>Produksi Gamelan dan Gong</h2>
                 <p style="text-align: justify;">
-                    Pak Samijan, seorang pengrajin gamelan dari Desa Kismoyoso, telah lama dikenal sebagai sosok penting dalam pembuatan alat musik tradisional Jawa. Dengan lokasi usaha yang strategis, gamelan yang dihasilkan oleh Pak Samijan dikenal memiliki kualitas unggul.
+                Pak Samijan, seorang pengrajin gamelan dari Kismoyoso, telah memproduksi gong dan gamelan berkualitas tinggi sejak tahun 2004. Beliau menggunakan bahan perak dan tembaga untuk membuat alat musik tradisional ini. Proses pembuatan dimulai dengan menempanya menggunakan api panas, kemudian direndam dalam air untuk memperkuat materialnya. Jika bunyi yang dihasilkan belum sesuai, gong atau gamelan akan ditempa ulang hingga mencapai nada yang diinginkan.
                 </p>
                 <p style="text-align: justify;">
-                    Keahlian Pak Samijan dalam menciptakan gamelan berkualitas tinggi telah menarik perhatian tidak hanya dari masyarakat lokal tetapi juga dari berbagai penjuru. 
+                Pak Samijan menawarkan berbagai ukuran gong dan gamelan dengan harga yang bervariasi. Gong kecil dibanderol dengan harga Rp 5 juta, sementara yang besar mencapai Rp 12 juta. Untuk gamelan, harga unit kecil adalah Rp 10 juta, sedangkan yang besar dijual seharga Rp 12 juta. Produk-produknya tidak hanya diminati oleh masyarakat lokal, tetapi juga oleh pembeli dari luar daerah seperti Pati, Jakarta, Surabaya, dan yang paling banyak dari Sragen.
                 </p>
             </div>
         </div>

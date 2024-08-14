@@ -46,11 +46,11 @@
                                         type: 'pie',
                                         radius: '80%',
                                         data: [{
-                                                value: 5319,
+                                                value: 5256,
                                                 name: 'Laki-Laki'
                                             },
                                             {
-                                                value: 4906,
+                                                value: 4884,
                                                 name: 'Perempuan'
                                             },
                                         ],
@@ -124,19 +124,19 @@
                                         type: 'pie',
                                         radius: '80%',
                                         data: [{
-                                                value: 2384,
+                                                value: 1600,
                                                 name: 'Dusun 1'
                                             },
                                             {
-                                                value: 1514,
+                                                value: 2239,
                                                 name: 'Dusun 2'
                                             },
                                             {
-                                                value: 3911,
+                                                value: 3903,
                                                 name: 'Dusun 3'
                                             },
                                             {
-                                                value: 2416,
+                                                value: 2398,
                                                 name: 'Dusun 4'
                                             },
                                         ],

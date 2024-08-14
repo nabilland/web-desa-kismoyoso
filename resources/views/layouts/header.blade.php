@@ -53,6 +53,7 @@
                                     <li><a href="{{ route('komposisi-penduduk') }}">Komposisi Penduduk</a></li>
                                     <li><a href="{{ route('pekerjaan-penduduk') }}">Pekerjaan Penduduk</a></li>
                                     <li><a href="{{ route('pendidikan-penduduk') }}">Pendidikan Penduduk</a></li>
+                                    <li><a href="{{ route('mutasi-penduduk') }}">Mutasi Penduduk</a></li>
                                     <!-- <li><a href="#">Kesejahteraan Penduduk</a></li>
                                     <li><a href="#">Kesehatan Penduduk</a></li> -->
                                 </ul>

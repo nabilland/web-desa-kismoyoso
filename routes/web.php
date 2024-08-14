@@ -55,6 +55,9 @@ Route::get('/pendidikan-penduduk', function () {
 Route::get('/komposisi-penduduk', function () {
     return view('penduduk.komposisi');
 })->name('komposisi-penduduk');
+Route::get('/mutasi-penduduk', function () {
+    return view('penduduk.mutasi');
+})->name('mutasi-penduduk');
 
 // POTENSI
 Route::get('/potensi', function () {
