@@ -9,7 +9,7 @@
     <section id="hero">
         <div class="hero-container" data-aos="fade-up">
             <h1>Selamat Datang di Website Desa Kismoyoso</h1>
-            <h2 style="font-size: 14pt;">Mewujudkan sistem pemerintahan yang efektif sehingga mampu meningkatkan pelayanan dan kesejahteraan masyarakat</h2>
+            <!-- <h2 style="font-size: 14pt;">Mewujudkan sistem pemerintahan yang efektif sehingga mampu meningkatkan pelayanan dan kesejahteraan masyarakat</h2> -->
             <a href="#about" class="btn-get-started scrollto">Jelajahi</a>
         </div>
     </section><!-- End Hero -->
@@ -84,7 +84,7 @@
                         <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Prestasi Desa</p>
                     </div> -->
-                    <p style="text-align: center; margin-top: 20px; font-size: 9pt; font-weight: bold;"><sup>(*)</sup> Berdasarkan Data Badan Pusat Statistik (BPS) Kabupaten Boyolali Tahun 2020</p>
+                    <p style="text-align: center; margin-top: 20px; font-size: 9pt; font-weight: bold;"><sup>(*)</sup> Berdasarkan Data Pemerintah Desa Kismoyoso Tahun 2023</p>
                 </div>
 
             </div>
@@ -164,7 +164,7 @@
                 </div>
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <a href="{{ route('jamu-gendong') }}">
                             <img src="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" class="img-fluid" alt="">
                         </a>
@@ -176,7 +176,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <a href="{{ route('tauge') }}">
                             <img src="{{ asset('assets/img/tauge 6.jpg') }}" class="img-fluid" alt="">
                         </a>
@@ -188,7 +188,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <a href="{{ route('tahu') }}">
                             <img src="{{ asset('assets/img/tahuu.jpg') }}" class="img-fluid" alt="">
                         </a>
@@ -200,7 +200,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <a href="{{ route('kandang-burung') }}">
                             <img src="{{ asset('assets/img/kandangburung.jpg') }}" class="img-fluid" alt="">
                         </a>
@@ -212,7 +212,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <a href="{{ route('lilin-aromaterapi') }}">
                             <img src="assets/img/lilin2.jpg" class="img-fluid" alt="">
                         </a>
@@ -224,8 +224,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <a href="{{ route('lilin-aromaterapi') }}">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <a href="{{ route('gamelan') }}">
                             <img src="assets/img/dummy/gamelan.jpg" class="img-fluid" alt="">
                         </a>
                         <div class="portfolio-info">
@@ -330,7 +330,7 @@
                                 <i class="bi bi-clock"></i>
                                 <h4>Waktu Kerja:</h4>
                                 <p>Senin — Jumat</p>
-                                <p>08.00 — 12.00 WIB</p>
+                                <p>07.30 — 14.00 WIB</p>
                             </div>
 
                             <!-- <div class="email">

@@ -42,7 +42,7 @@
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/ecoprint37.jpg') }}" alt="" class="img-fluid">
-                    <h4>Sosialisasi Pembuatan Ecoprint</h4>
+                    <h4>Sosialisasi Pembuatan Ecoprint dengan Teknik Pounding</h4>
                     <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik tidak hanya diberikan pemahaman tentang <i>ecoprint</i> dengan teknik <i>pounding</i>, tetapi juga berinteraksi langsung dengan membuat <i>ecoprint</i> di atas media tas jinjing (<i>tote bag</i>).</p>
                     <br><br>
                 </div>
@@ -81,7 +81,7 @@
             <div class="col-lg-4">
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/celengan.jpeg') }}" alt="" class="img-fluid">
-                    <h4>Sosialisasi Pembuatan Celengan dari Barang Bekas</h4>
+                    <h4>Pembuatan Celengan dari Barang Bekas</h4>
                     <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik berkreasi dengan membuat karya nerupa celengan bekas dengan memanfaatkan botol plastik bekas air mineral.</p>
                     <br>
                 </div>
@@ -99,7 +99,7 @@
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <div class="box mb-2" data-aos="fade-up">
                     <img src="{{ asset('assets/img/pupuk.jpeg') }}" alt="" class="img-fluid">
-                    <h4>Sosialisasi Pembuatan Pupuk Cair untuk Tanaman Padi</h4>
+                    <h4>Pembuatan Pupuk Cair untuk Tanaman Padi dan Palawija</h4>
                     <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di Dusun Beran dan diikuti oleh warga Dusun Beran. Warga menyaksiksan demo pembuatan pupuk cair untuk tanaman padi dari awal hingga akhir dengan saksama.</p>
                     <br>
                 </div>
@@ -118,7 +118,7 @@
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/omah-sinau.jpeg') }}" alt="" class="img-fluid">
                     <h4>Omah Sinau</h4>
-                    <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan untuk peserta didik kelas 6 SD Negeri 1 Kismoyoso dan SD Negeri 2 Kismoyoso. Peserta didik mendapatkan bimbingan belajar untuk mata pelajaran Matematika, IPA, Bahasa Inggris, dan Pendidikan Kewarganegaraan.</p>
+                    <p>Kegiatan omah sinau ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan untuk peserta didik kelas 6 SD Negeri 1 Kismoyoso dan SD Negeri 2 Kismoyoso masing-masing sebanyak 5 kali pertemuan. Peserta didik mendapatkan bimbingan belajar untuk mata pelajaran Matematika, IPA, Bahasa Inggris, dan Pendidikan Kewarganegaraan.</p>
                     <br>
                 </div>
             </div>
@@ -136,7 +136,7 @@
             <div class="col-lg-4">
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/peta tanah.jpg') }}" alt="" class="img-fluid">
-                    <h4>Pembuatan Peta Penggunaan Lahan Desa Kismoyoso</h4>
+                    <h4>Pembuatan Peta Tanah Desa Kismoyoso dengan Teknik Tracing</h4>
                     <p>Pembuatan peta penggunaan lahan ini diinisiasi oleh <strong>Kelompok 37 KKN UNS </strong> yang dipersembahkan untuk Pemerintah Desa Kismoyoso. Pembuatan peta mencakup gambaran penggunaan lahan Dusun I, II, III, dan IV di Desa Kismoyoso.</p>
                     <br>
                 </div>
@@ -154,8 +154,8 @@
             <div class="col-lg-4 mt-4 mb-2 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/kebun-krikilan.jpeg') }}" alt="" class="img-fluid">
-                    <h4>Pengembangan Kebun Gizi</h4>
-                    <p>Pengembangan kebun gizi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di Kebun Gizi Dusun Krikilan. Tim KKN 37 UNS bersama warga mengembangkan kebun gizi di atas lahan milik umum yang dapat digunakan untuk meningkatkan kesejahteraan warga.</p>
+                    <h4>Bertumbuh Bersama: Membangun Kebun Gizi Krikilan yang Sehat dan Berkelanjutan Bersama Masyarakat</h4>
+                    <p>Kegiatan membangun kebun gizi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di Kebun Gizi Dusun Krikilan. Tim KKN 37 UNS bersama warga mengembangkan kebun gizi di atas lahan milik umum yang dapat digunakan untuk meningkatkan kesejahteraan warga.</p>
                     <br><br>
                 </div>
             </div>
@@ -163,17 +163,17 @@
             <!-- proker 38 -->
             <div class="col-lg-4">
                 <div class="box" data-aos="fade-up">
-                    <img src="{{ asset('assets/img/web.jpg') }}" alt="" class="img-fluid">
+                    <img src="{{ asset('assets/img/web.png') }}" alt="" class="img-fluid">
                     <h4>Rebranding Website Desa</h4>
                     <p>Pembuatan website Desa Kismoyoso ini diinisiasi oleh <strong>Gabungan Prodi Informatika Kelompok 37 dan 38 KKN UNS </strong> yang dipersembahkan untuk Pemerintah Desa Kismoyoso. Tujuan dari rebranding ini sendiri dilakukan untuk meningkatkan fungsionalitas website yang sudah ada dan menyediakan platform penghubung Desa Kismoyoso dengan masyarakat lokal maupun umum.</p>
                     <br>
                 </div>
             </div>
             <!-- proker 37 -->
-            <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="col-lg-4 mt-4 mt-lg-0 mb-2">
                 <div class="box" data-aos="fade-up">
-                    <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
-                    <h4>Sosialisasi Roket Air</h4>
+                    <img src="{{ asset('assets/img/roket-air.jpg') }}" alt="" class="img-fluid">
+                    <h4>Skylab: Eksplorasi Sains dengan Roket Air</h4>
                     <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 1 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 6. Peserta didik tidak hanya diberikan pemahaman tentang pembuatan dan cara kerja roket air, tetapi juga diajak untuk berinteraksi langsung dengan membuat roket dari botol plastik bekas air mineral.</p>
                     <br>
                 </div>
@@ -187,7 +187,37 @@
                     <br>
                 </div>
             </div>
+
+            <!-- baris dua -->
+        <!-- proker 37 -->
+        <div class="col-lg-4">
+            <div class="box" data-aos="fade-up">
+                <img src="{{ asset('assets/img/tari.png') }}" alt="" class="img-fluid">
+                <h4>Pelatihan Kesenian Tari</h4>
+                <p>Pelatihan kesenian tari ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan sebanyak 5 kali pertemuan di SD Negeri 2 Kismoyoso. Peserta didik mengenal seni tari tradisional dan berlatih gerakan dasar dari tari-tari terentu, seperti Tari Gambyong dan Tari Rampak. Tujuan dari pelatihan ini adalah melestarikan seni tari tradisional serta meningkatkan minat dan bakar siswa dalam bidang seni tari.</p>
+                <br>
+            </div>
         </div>
+        <!-- proker 38 -->
+        <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="box" data-aos="fade-up">
+                <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
+                <h4>Proker 38</h4>
+                <p>Belum ada isi</p>
+                <br>
+            </div>
+        </div>
+        <!-- proker 37 -->
+        <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="box" data-aos="fade-up">
+                <img src="{{ asset('assets/img/lomba-sd-1.jpg') }}" alt="" class="img-fluid">
+                <h4>Acara Memeriahkan HUT RI Ke-79</h4>
+                <p>Acara memeriahkan HUT RI Ke-79 diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Acara ini dilaksanakan di SD Negeri 1 Kismoyoso yang diisi dengan berbagai lomba tradisional, seperto lomba memasukkan pensil ke dalam botol, cantol galon, estafet kelereng, estafet karet, dan balap karung. Tujuan acara ini adalah mendorong kerja sama, sportivitas, hiburan, sekaligus menghidupkan kembali semangat gotong royong yang menjadi ciri khas masyarakat Indonesia.</p>
+                <br>
+            </div>
+        </div>
+        </div>
+    </div>
     </div>
 </section>
 @endsection

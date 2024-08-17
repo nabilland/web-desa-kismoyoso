@@ -88,8 +88,8 @@
                 <p style="text-align: justify;">
                     Lilin aromaterapi dari Padasan Craft memiliki berbagai varian aroma yang menenangkan dan dapat digunakan untuk berbagai kebutuhan, seperti relaksasi, meditasi, dan meningkatkan kualitas udara dalam ruangan. Melalui proses produksi yang teliti dan penggunaan bahan-bahan alami, Padasan Craft memastikan setiap lilin yang diproduksi memiliki kualitas yang terbaik. Usaha ini telah mendapatkan perhatian positif dari masyarakat dan terus berkembang dengan pesanan yang datang dari berbagai daerah.
                 </p>
-                <p>
-                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                <p style="text-align: justify;">
+                    <b>Ingin tahu lebih banyak atau pesan produk?</b> Hubungi WhatsApp sekarang atau datang langsung ke lokasi yang ada di peta!
                 </p>
             </div>
         </div>

@@ -77,6 +77,9 @@
                 <p style="text-align: justify;">
                     Ia memulai aktivitasnya sejak dini, meracik jamu di dapur rumahnya, dan berkeliling ke desa-desa sekitar untuk menjajakan produknya. Pak Sunarto bersama 14 orang lainnya di dusunnya tetap setia menjalankan usaha ini sebagai sumber utama penghidupan.
                 </p>
+                <p style="text-align: justify;">
+                    <b>Ingin tahu lebih banyak atau pesan produk?</b> Hubungi WhatsApp sekarang atau datang langsung ke lokasi yang ada di peta!
+                </p>
             </div>
         </div>
 

@@ -74,16 +74,19 @@
                         </div>
                         <!-- <li><strong>Prestasi</strong>: UMKM Unggulan</li> -->
                     </ul>
-                    
+
                 </div>
             </div>
             <div class="portfolio-description">
-                <h2>Produksi Gamelan dan Gong</h2>
+                <h2>Produksi Gamelan</h2>
                 <p style="text-align: justify;">
-                Pak Samijan, seorang pengrajin gamelan dari Kismoyoso, telah memproduksi gong dan gamelan berkualitas tinggi sejak tahun 2004. Beliau menggunakan bahan perak dan tembaga untuk membuat alat musik tradisional ini. Proses pembuatan dimulai dengan menempanya menggunakan api panas, kemudian direndam dalam air untuk memperkuat materialnya. Jika bunyi yang dihasilkan belum sesuai, gong atau gamelan akan ditempa ulang hingga mencapai nada yang diinginkan.
+                    Pak Samijan, seorang pengrajin gamelan dari Kismoyoso, telah memproduksi gamelan berkualitas tinggi sejak tahun 2004. Beliau menggunakan bahan perak dan tembaga untuk membuat alat musik tradisional ini. Proses pembuatan dimulai dengan menempanya menggunakan api panas, kemudian direndam dalam air untuk memperkuat materialnya. Jika bunyi yang dihasilkan belum sesuai, gamelan akan ditempa ulang hingga mencapai nada yang diinginkan.
                 </p>
                 <p style="text-align: justify;">
-                Pak Samijan menawarkan berbagai ukuran gong dan gamelan dengan harga yang bervariasi. Gong kecil dibanderol dengan harga Rp 5 juta, sementara yang besar mencapai Rp 12 juta. Untuk gamelan, harga unit kecil adalah Rp 10 juta, sedangkan yang besar dijual seharga Rp 12 juta. Produk-produknya tidak hanya diminati oleh masyarakat lokal, tetapi juga oleh pembeli dari luar daerah seperti Pati, Jakarta, Surabaya, dan yang paling banyak dari Sragen.
+                    Pak Samijan menawarkan berbagai ukuran gamelan dengan harga yang bervariasi. Gong kecil dibanderol dengan harga Rp 5 juta, sementara yang besar mencapai Rp 12 juta. Untuk gamelan balungan, harga unit kecil adalah Rp 10 juta, sedangkan yang besar dijual seharga Rp 12 juta. Produk-produknya tidak hanya diminati oleh masyarakat lokal, tetapi juga oleh pembeli dari luar daerah seperti Pati, Jakarta, Surabaya, dan yang paling banyak dari Sragen.
+                </p>
+                <p style="text-align: justify;">
+                    <b>Ingin tahu lebih banyak atau pesan produk?</b> Hubungi WhatsApp sekarang atau datang langsung ke lokasi yang ada di peta!
                 </p>
             </div>
         </div>

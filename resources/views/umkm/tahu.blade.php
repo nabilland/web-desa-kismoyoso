@@ -90,8 +90,8 @@
                 <p style="text-align: justify;">
                     Komitmen lingkungan juga menjadi prioritas, di mana limbah padat dan cair dari produksi diolah dengan baik sebelum dibuang, untuk memastikan tidak ada pencemaran lingkungan.
                 </p>
-                <p>
-                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                <p style="text-align: justify;">
+                    <b>Ingin tahu lebih banyak atau pesan produk?</b> Hubungi WhatsApp sekarang atau datang langsung ke lokasi yang ada di peta!
                 </p>
             </div>
         </div>

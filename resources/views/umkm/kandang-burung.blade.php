@@ -91,8 +91,8 @@
                 <p style="text-align: justify;">
                     Usahanya yang terus berkembang ini juga membantu mengangkat perekonomian masyarakat sekitar dengan melibatkan tenaga kerja lokal dalam proses produksinya. Pak Wawan menjual kandang-kandang burungnya dengan harga bervariasi sesuai ukuran dan model, mulai dari Rp250.000. Beliau menerima pesanan secara langsung dan mempromosikan produknya melalui jaringan pribadi serta media sosial. Meski menjalankan usaha secara mandiri, Pak Wawan kerap mendapat bantuan dari keluarganya untuk memenuhi pesanan yang terus meningkat.
                 </p>
-                <p>
-                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                <p style="text-align: justify;">
+                    <b>Ingin tahu lebih banyak atau pesan produk?</b> Hubungi WhatsApp sekarang atau datang langsung ke lokasi yang ada di peta!
                 </p>
             </div>
         </div>

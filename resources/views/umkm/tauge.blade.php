@@ -89,8 +89,8 @@
                 <p style="text-align: justify;">
                     Ibu Waljinah memproduksi berbagai jenis tauge, termasuk tauge dari kedelai, tauge dari kacang hijau kecil yang sering digunakan dalam masakan seperti rawon dan soto, serta tauge panjang yang menjadi bahan utama dalam hidangan seperti ketoprak dan lainnya. Setiap hari, beliau berangkat ke Pasar Gagan pada pukul 3 pagi untuk menjual tauge hasil produksinya. Setelah selesai berjualan sekitar pukul 7 pagi, Ibu Waljinah kembali ke rumah untuk melanjutkan proses produksi tauge.
                 </p>
-                <p>
-                    Untuk informasi lebih lanjut atau pemesanan, Anda dapat menghubungi mereka melalui WhatsApp atau mengunjungi lokasi mereka yang tertera pada peta.
+                <p style="text-align: justify;">
+                    <b>Ingin tahu lebih banyak atau pesan produk?</b> Hubungi WhatsApp sekarang atau datang langsung ke lokasi yang ada di peta!
                 </p>
             </div>
         </div>

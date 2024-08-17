@@ -28,7 +28,7 @@
                         <b>Desa Kismoyoso</b> memiliki luas wilayah sekitar 329,0549 hektar, yang terdiri dari 226,2932 hektar tanah sawah dan 102,7617 hektar tanah kering.
                     </p>
                     <p style="text-align: justify;">
-                        <b>Desa Kismoyoso/b> memiliki orbitasi 3 Km ke Ibu Kota Kecamatan dengan lama tempuh 10 menit dan 25 Km ke Ibu Kota Kabupaten dengan lama tempuh 40 menit.
+                        <b>Desa Kismoyoso</b> berjarak 3 km dari Ibu Kota Kecamatan dengan waktu tempuh sekitar 10 menit, dan 25 km dari Ibu Kota Kabupaten dengan waktu tempuh sekitar 40 menit.
                     </p>
                     <p style="text-align: justify;">
                         Sementara itu, batas wilayah <b>Desa Kismoyoso</b> adalah sebagai berikut.
