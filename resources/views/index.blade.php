@@ -66,12 +66,12 @@
 
                 <div class="row counters">
                     <div class="col-lg-4 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="10225" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="10140" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Jumlah Penduduk (Jiwa)</p>
                     </div>
 
                     <div class="col-lg-4 col-6 text-center">
-                        <span data-purecounter-start="0" data-purecounter-end="3779" data-purecounter-duration="1" class="purecounter"></span>
+                        <span data-purecounter-start="0" data-purecounter-end="329" data-purecounter-duration="1" class="purecounter"></span>
                         <p>Luas Wilayah (km<sup>2</sup>)</p>
                     </div>
 

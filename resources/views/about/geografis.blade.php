@@ -19,23 +19,26 @@
                 </div>
                 <div class="container grey-block p-3" data-aos="fade-in">
                     <p style="text-align: justify;">
-                        <b>Desa Kismoyoso</b> terletak di Kecamatan Ngemplak, Kabupaten Boyolali, Provinsi Jawa Tengah. Desa ini memiliki kode wilayah 3309112008 dan kode pos 57375. Secara administratif, Desa Kismoyoso berada dalam wilayah kode kecamatan 330911 dan kode kabupaten 3309.
+                        <b>Desa Kismoyoso</b> terletak di Kecamatan Ngemplak, Kabupaten Boyolali, Provinsi Jawa Tengah, dengan kode wilayah 3309112008 dan kode pos 57375. Secara tipologi, Desa Kismoyoso merupakan desa perbatasan dengan kabupaten lain. Secara administratif, desa ini berada dalam wilayah kode kecamatan 330911 dan kode kabupaten 3309.
                     </p>
                     <p style="text-align: justify;">
-                        <b>Desa Kismoyoso</b> memiliki luas wilayah total sekitar 3.706,206 hektar, yang terdiri dari 1.395,075 hektar lahan desa, termasuk 50,121 hektar tanah kas desa dan 189,302 hektar tanah bengkok perangkat desa. Wilayah desa ini membentang dari barat ke timur sejauh 5 km dan dari utara ke selatan juga sejauh 5 km.
+                        <b>Desa Kismoyoso</b> memiliki iklim dengan curah hujan sedang dan musim penghujan yang berlangsung selama 6 bulan. Suhu rata-rata harian di desa ini adalah 30°C, dengan bentang wilayah yang cenderung datar.
                     </p>
                     <p style="text-align: justify;">
-                        Batas wilayah Desa Kismoyoso adalah sebagai berikut:
+                        <b>Desa Kismoyoso</b> memiliki luas wilayah sekitar 329,0549 hektar, yang terdiri dari 226,2932 hektar tanah sawah dan 102,7617 hektar tanah kering.
+                    </p>
+                    <p style="text-align: justify;">
+                        <b>Desa Kismoyoso/b> memiliki orbitasi 3 Km ke Ibu Kota Kecamatan dengan lama tempuh 10 menit dan 25 Km ke Ibu Kota Kabupaten dengan lama tempuh 40 menit.
+                    </p>
+                    <p style="text-align: justify;">
+                        Sementara itu, batas wilayah <b>Desa Kismoyoso</b> adalah sebagai berikut.
                     </p>
                     <ul>
-                        <li><b>Utara:</b> Berbatasan dengan Desa Giriroto</li>
-                        <li><b>Selatan:</b> Berbatasan dengan Desa Donohudan dan Desa Pandeyan</li>
+                        <li><b>Utara:</b> Berbatasan dengan Desa Giriroto dan Desa Manggung Kecamatan Ngemplak, Kabupaten Boyolali</li>
+                        <li><b>Selatan:</b> Berbatasan dengan Desa Donohudan, Desa Pandeyan, dan Desa Sawahan</li>
                         <li><b>Barat:</b> Berbatasan dengan Desa Dibal</li>
                         <li><b>Timur:</b> Berbatasan dengan Kabupaten Karanganyar</li>
                     </ul>
-                    <p style="text-align: justify;">
-                        Kismoyoso adalah salah satu desa di wilayah Kabupaten Boyolali yang kaya akan potensi alam dan budaya. Desa ini berada di kawasan yang strategis dengan akses yang baik menuju berbagai fasilitas umum, baik di tingkat kecamatan maupun kabupaten. Letak geografisnya yang berada di tengah-tengah Provinsi Jawa Tengah memberikan kemudahan bagi masyarakat desa untuk berinteraksi dan berhubungan dengan wilayah lain di sekitarnya.
-                    </p>
                 </div>
             </div>
         </div>
