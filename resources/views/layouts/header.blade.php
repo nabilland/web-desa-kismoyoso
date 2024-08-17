@@ -1,5 +1,5 @@
 <!-- ======= Header ======= -->
-    <header id="header" class="d-flex align-items-center">
+<header id="header" class="d-flex align-items-center">
         <div class="container d-flex justify-content-between">
 
             <div class="logo" style="display: flex; align-items: center;">
@@ -21,6 +21,7 @@
                                     <li><a href="{{ route('tauge') }}">Tauge</a></li>
                                     <li><a href="{{ route('kandang-burung') }}">Kandang Burung</a></li>
                                     <li><a href="{{ route('lilin-aromaterapi') }}">Lilin Aromaterapi</a></li>
+                                    <li><a href="{{ route('gamelan') }}">Gamelan</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -52,6 +53,7 @@
                                     <li><a href="{{ route('komposisi-penduduk') }}">Komposisi Penduduk</a></li>
                                     <li><a href="{{ route('pekerjaan-penduduk') }}">Pekerjaan Penduduk</a></li>
                                     <li><a href="{{ route('pendidikan-penduduk') }}">Pendidikan Penduduk</a></li>
+                                    <li><a href="{{ route('mutasi-penduduk') }}">Mutasi Penduduk</a></li>
                                     <!-- <li><a href="#">Kesejahteraan Penduduk</a></li>
                                     <li><a href="#">Kesehatan Penduduk</a></li> -->
                                 </ul>

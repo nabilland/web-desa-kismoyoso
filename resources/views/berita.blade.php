@@ -26,6 +26,7 @@
                     <h4>Sosialisasi Kebun TOGA (Tanaman Obat Keluarga)</h4>
                     <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 5. Peserta didik tidak hanya diberikan pemahaman tentang TOGA, tetapi juga diajak untuk berinteraksi langsung dengan menanam berbagai jenis tanaman obat.</p>
                     <br>
+                    <br>
                 </div>
             </div>
             <!-- proker 38 -->
@@ -33,7 +34,7 @@
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/sosialisasi-sampah.jpg') }}" alt="" class="img-fluid">
                     <h4>Sosialisasi Pemilahan Sampah Rumah Tangga</h4>
-                    <p> Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong>Kegiatan ini dilaksanakan di Kantor PKK Balai Desa Kismoyoso dan dihadiri oleh ibu-ibu PKK setempat.</p>
+                    <p> Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong>Kegiatan ini dilaksanakan di Kantor PKK Balai Desa Kismoyoso dan dihadiri oleh ibu-ibu PKK setempat. Dalam kegiatan ini dijelaskan pentingnya pemilahan sampah rumah tangga dan diberikan tips praktis tentang cara memisahkan sampah organik dan anorganik, serta manfaat dari daur ulang pada Desa Kismoyoso.</p>
                     <br>
                 </div>
             </div>
@@ -43,7 +44,7 @@
                     <img src="{{ asset('assets/img/ecoprint37.jpg') }}" alt="" class="img-fluid">
                     <h4>Sosialisasi Pembuatan Ecoprint</h4>
                     <p>Kegiatan sosialisasi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di SD Negeri 2 Kismoyoso dan diikuti oleh seluruh peserta didik kelas 4. Peserta didik tidak hanya diberikan pemahaman tentang <i>ecoprint</i> dengan teknik <i>pounding</i>, tetapi juga berinteraksi langsung dengan membuat <i>ecoprint</i> di atas media tas jinjing (<i>tote bag</i>).</p>
-                    <br>
+                    <br><br>
                 </div>
             </div>
             <!-- baris dua -->
@@ -51,9 +52,9 @@
             <div class="col-lg-4">
                 <div class="box mb-2" data-aos="fade-up">
                     <img src="{{ asset('assets/img/kebun.jpg') }}" alt="" class="img-fluid">
-                    <h4>Revitalisasi Kebun Gizi Lembayung</h4>
-                    <p>Revitalisasi ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong> Kegiatan ini dilaksanakan di Kebun Gizi Lembayung yang berlokasi di .... </p>
-                    <br>
+                    <h4>Pengembangan Kebun Gizi Lembayung</h4>
+                    <p>Pengembangan ini dilakukan oleh <strong>Kelompok 38 KKN UNS. </strong> Kegiatan ini dilaksanakan di Kebun Gizi Lembayung yang berlokasi di Tambas RT 03 RW 07. Dalam pelaksanaannya dilakukan penanaman bibit dan juga penanaman benih. </p>
+                    <br><br>
                 </div>
             </div>
             <!-- proker 37 -->
@@ -71,8 +72,8 @@
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/ebt.jpg') }}" alt="" class="img-fluid">
                     <h4>Energi Baru Terbarukan</h4>
-                    <p> blablablabla </p>
-                    <br>
+                    <p>Kegiatan ini dilakukan oleh <strong>Kelompok 38 KKN UNS. </strong>Energi Baru Terbarukan (EBT) ini dilaksanakan dengan melakukan praktik pembuatan PLTA (Pembangkit Listrik Tenaga Air) dan PLTS (Pembangkit Listrik Tenaga Surya), diikuti oleh siswa kelas 6 di SDN 03 Kismoyoso.</p>
+                    <br><br>
                 </div>
             </div>
 
@@ -90,7 +91,7 @@
                 <div class="box" data-aos="fade-up">
                     <img src="{{ asset('assets/img/ecoprint.jpg') }}" alt="" class="img-fluid">
                     <h4>Praktik Pembuatan Ecoprint</h4>
-                    <p>Kegiatan ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong> Praktik pembuatan ecoprint menggunakan media totebag ini dilaksanakan di SDN 03 Kismoyoso, dan diikuti oleh murid kelas 4 dan 5</p>
+                    <p>Kegiatan ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong> Praktik pembuatan ecoprint menggunakan media totebag ini dilaksanakan di SDN 03 Kismoyoso, dan diikuti oleh murid kelas 4 dan 5. Melalui kegiatan ini, para murid diajarkan bagaimana memanfaatkan alam sekitar untuk menghasilkan karya seni yang ramah lingkungan.</p>
                     <br>
                 </div>
             </div>
@@ -109,7 +110,7 @@
                     <img src="{{ asset('assets/img/lilin.jpg') }}" alt="" class="img-fluid">
                     <h4>Pembuatan Lilin Aromaterapi dari Minyak Jelantah</h4>
                     <p>Kegiatan ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong> Praktik pembuatan lilin aromaterapi dari minyak jelantah ini dilakukan untuk meningkatkan kualitas produk UMKM itu sendiri. UMKM lilin itu sendiri berlokasi di Dusun Padasan</p>
-                    <br>
+                    <br><br>
                 </div>
             </div>
             <!-- proker 37 -->
@@ -134,7 +135,7 @@
             <!-- proker 37 -->
             <div class="col-lg-4">
                 <div class="box" data-aos="fade-up">
-                    <img src="{{ asset('assets/img/.jpg') }}" alt="" class="img-fluid">
+                    <img src="{{ asset('assets/img/peta tanah.jpg') }}" alt="" class="img-fluid">
                     <h4>Pembuatan Peta Penggunaan Lahan Desa Kismoyoso</h4>
                     <p>Pembuatan peta penggunaan lahan ini diinisiasi oleh <strong>Kelompok 37 KKN UNS </strong> yang dipersembahkan untuk Pemerintah Desa Kismoyoso. Pembuatan peta mencakup gambaran penggunaan lahan Dusun I, II, III, dan IV di Desa Kismoyoso.</p>
                     <br>
@@ -146,7 +147,7 @@
                     <img src="{{ asset('assets/img/herbarium.jpg') }}" alt="" class="img-fluid">
                     <h4>Pembuatan Herbarium</h4>
                     <p> Kegiatan pembuatan herbarium ini diinisiasi oleh <strong>Kelompok 38 KKN UNS. </strong> Pembuatan herbarium dilaksanakan di SDN 03 Kismoyoso untuk kelas 5 SD. Siswa dibantu untuk merangkai bunga dan daun yang telah dikeringkan.</p>
-                    <br>
+                    <br><br><br>
                 </div>
             </div>
             <!-- proker 37 -->
@@ -155,7 +156,7 @@
                     <img src="{{ asset('assets/img/kebun-krikilan.jpeg') }}" alt="" class="img-fluid">
                     <h4>Pengembangan Kebun Gizi</h4>
                     <p>Pengembangan kebun gizi ini diinisiasi oleh <strong>Kelompok 37 KKN UNS. </strong>Kegiatan ini dilaksanakan di Kebun Gizi Dusun Krikilan. Tim KKN 37 UNS bersama warga mengembangkan kebun gizi di atas lahan milik umum yang dapat digunakan untuk meningkatkan kesejahteraan warga.</p>
-                    <br>
+                    <br><br>
                 </div>
             </div>
             <!-- baris dua -->

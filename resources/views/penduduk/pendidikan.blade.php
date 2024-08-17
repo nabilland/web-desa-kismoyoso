@@ -77,8 +77,8 @@
             </div>
             <div class="container grey-block p-3 mt-4">
                 <p style="text-align:justify;">
-                    Masyarakat <b>Desa Kismoyoso</b> memiliki berbagai tingkat pendidikan yang mencerminkan keragaman latar belakang dan aspirasi. Data di atas menunjukkan distribusi pendidikan, mencakup tingkat pendidikan Sarjana, Diploma, SLTA, SLTP, dan Tamat SD/Sederajat.
-                    Dari data yang tersedia, dapat disimpulkan bahwa 2.577 orang telah menempuh pendidikan SD, 2.203 orang mencapai tingkat SLTP, 1.927 orang menempuh tingkat SLTA, 160 orang menempuh tingkat Diploma, dan 253 orang menempuh tingkat Sarjana.
+                    Masyarakat <b>Desa Kismoyoso</b> memiliki berbagai tingkat pendidikan yang mencerminkan keragaman latar belakang dan aspirasi. Data di atas menunjukkan distribusi pendidikan berdasarkan gender, mencakup tingkat pendidikan SMP dan SMA.
+                    Dari data yang tersedia, dapat disimpulkan bahwa 1.317 laki-laki telah menempuh pendidikan SMA dan 1.120 lainnya mencapai tingkat SMP. Sementara itu, 1.715 perempuan telah menyelesaikan pendidikan SMA, dan 2.413 lainnya lulus SMP.
                 </p>
             </div>
     </div>
