@@ -170,7 +170,7 @@
                         </a>
                         <div class="portfolio-info">
                             <h4>Jamu Gendong</h4>
-                            <p>Kuliner</p>
+                            <p>Pangan dan Minuman</p>
                             <a href="{{ asset('assets/img/dummy/jamu-gendong.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Jamu Gendong"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('jamu-gendong') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
@@ -182,7 +182,7 @@
                         </a>
                         <div class="portfolio-info">
                             <h4>Tauge</h4>
-                            <p>Pertanian & Perkebunan</p>
+                            <p>Produksi dan Penjualan Tauge</p>
                             <a href="{{ asset('assets/img/tauge 6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('tauge') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
@@ -194,7 +194,7 @@
                         </a>
                         <div class="portfolio-info">
                             <h4>Tahu</h4>
-                            <p>Kuliner</p>
+                            <p>Produksi dan Penjualan Tahu</p>
                             <a href="{{ asset('assets/img/tahu.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Tahu"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('tahu') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
@@ -206,7 +206,7 @@
                         </a>
                         <div class="portfolio-info">
                             <h4>Kandang Burung</h4>
-                            <p>Kerajinan Tangan</p>
+                            <p>Pembuatan Kandang Burung</p>
                             <a href="{{ asset('assets/img/kandangburung.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kandang Burung Pak Wawan"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('kandang-burung') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
@@ -230,7 +230,7 @@
                         </a>
                         <div class="portfolio-info">
                             <h4>Gamelan</h4>
-                            <p>Alat Musik Tradisional</p>
+                            <p>Produksi Gamelan dan Gong</p>
                             <a href="{{ asset('assets/img/dummy/gamelan.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Lilin Aromaterapi"><i class="bx bx-plus"></i></a>
                             <a href="{{ route('gamelan') }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
