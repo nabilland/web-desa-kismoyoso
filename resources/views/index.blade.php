@@ -72,7 +72,7 @@
 
                     <div class="col-lg-4 col-6 text-center">
                         <span data-purecounter-start="0" data-purecounter-end="329" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Luas Wilayah (km<sup>2</sup>)</p>
+                        <p>Luas Wilayah (Hektar)</p>
                     </div>
 
                     <div class="col-lg-4 col-6 text-center">

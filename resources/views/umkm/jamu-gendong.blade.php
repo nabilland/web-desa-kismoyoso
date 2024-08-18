@@ -21,15 +21,15 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/jamu.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/jamu-1.png') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-2.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/jamu-2.png') }}" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="{{ asset('assets/img/portfolio/portfolio-3.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/jamu-3.png') }}" alt="">
                         </div>
 
                     </div>
@@ -42,12 +42,11 @@
                     <h3>Informasi UMKM</h3>
                     <ul>
                         <li><strong>Nama Usaha</strong>: Jamu Gendong</li>
-                        <li><strong>Jenis Kegiatan Usaha</strong>: Menengah</li>
-                        <li><strong>Bidang Kegiatan Usaha</strong>: Pangan dan Minuman</li>
+                        <li><strong>Jenis Kegiatan Usaha</strong>: Produksi dan Penjualan Jamu</li>
+                        <li><strong>Bidang Kegiatan Usaha</strong>: Industri Herbal dan Obat Tradisional</li>
                         <li><strong>Kategori Produk</strong>: Minuman Kesehatan, Produk Herbal, atau Minuman Tradisional</li>
-                        <li><strong>Produk Unggulan</strong>: Jamu</li>
-                        <li><strong>Pemilik</strong>: Pak Narto</li>
-                        <li><strong>Tahun Berdiri</strong>: </li>
+                        <li><strong>Pemilik</strong>: Bapak Narto</li>
+                        <li><strong>Tahun Berdiri</strong>: 2000</li>
                         <div class="d-flex">
                             <li><strong>Lokasi</strong>:
                                 <a target="_blank" href="https://www.google.com/maps/@-7.501002,110.801321,3a,75y,26.82h,77.09t/data=!3m7!1e1!3m5!1s5mZFTRzquA2Ok8b0GpFidQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.905330592893137%26panoid%3D5mZFTRzquA2Ok8b0GpFidQ%26yaw%3D26.818844403584194!7i16384!8i8192?coh=205410&entry=ttu">
@@ -62,7 +61,7 @@
                                 <a target="_blank" href="https://api.whatsapp.com/send/?phone=6285725666011">
                                     <button class="green-button">
                                         <i class="bx bx-message-rounded-dots" style="padding-right:2px"></i>
-                                        WhatsApp</button>
+                                        Chat via WhatsApp</button>
                                 </a>
                             </li>
                         </div>

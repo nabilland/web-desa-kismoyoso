@@ -11,7 +11,7 @@
 @section('contents')
 <section class="inner-page">
     <div class="container mb-3">
-        <h5 style="font-weight: bold;" class="mx-1 mb-3">Distribusi Pekerjaan Penduduk</h5>
+        <h5 style="font-weight: bold;" class="mx-1 mb-3">Pekerjaan Penduduk</h5>
         <div class="col-lg-6">
             <div class="card">
                 <div class="card-body">

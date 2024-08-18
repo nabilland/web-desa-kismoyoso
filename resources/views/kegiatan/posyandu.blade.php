@@ -4,7 +4,7 @@
 <h2>Posyandu</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li>Kegiatan</li>
+    <li>Program Sosial</li>
     <li>Posyandu</li>
 </ol>
 @endsection

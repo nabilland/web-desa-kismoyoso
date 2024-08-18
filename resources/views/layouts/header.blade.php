@@ -51,16 +51,15 @@
                             <li class="dropdown"><a href="#"><span>Demografis Desa</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="{{ route('komposisi-penduduk') }}">Komposisi Penduduk</a></li>
+                                    <li><a href="{{ route('distribusi-penduduk') }}">Distribusi Penduduk</a></li>
                                     <li><a href="{{ route('pekerjaan-penduduk') }}">Pekerjaan Penduduk</a></li>
                                     <li><a href="{{ route('pendidikan-penduduk') }}">Pendidikan Penduduk</a></li>
                                     <li><a href="{{ route('mutasi-penduduk') }}">Mutasi Penduduk</a></li>
-                                    <!-- <li><a href="#">Kesejahteraan Penduduk</a></li>
-                                    <li><a href="#">Kesehatan Penduduk</a></li> -->
                                 </ul>
                             </li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="#"><span>Program Sosial</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li class="dropdown"><a class="nav-link scrollto" href="{{ route('kebun-gizi') }}"><span>Kebun Gizi</span> <i class="bi bi-chevron-right"></i></a>
                                 <ul>
@@ -74,7 +73,7 @@
                     </li>
                     <li><a class="nav-link scrollto" href="{{ url('/berita') }}">Berita</a></li>
                     <li><a class="nav-link scrollto" href="{{ url('/#contact') }}">Kontak</a></li>
-                    <!-- <li><a class="nav-link scrollto" href="{{ url('/arsip') }}">Arsip</a></li> -->
+                    <li><a class="nav-link scrollto" href="{{ url('/arsip') }}">Arsip</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->

@@ -9,17 +9,20 @@
 @endsection
 
 @section('contents')
-<section class="inner-page">
+<section class="inner-page" style="min-height: 50vh;" data-aos="fade-up">
     <div class="container">
-        <h3>Daftar Dokumen</h3>
+        <h3 style="color:#8fc04e">Daftar Arsip</h3>
         <div class="document-list">
-            <h6>Dokumen User Manual Reference (Buku Panduan Penggunaan Website)</h6>
+            <h5>Dokumen User Manual Reference (Buku Panduan Penggunaan Website)</h5>
+            <p style="font-size: 11pt;">Silakan klik button di bawah ini untuk men-download dokumen!</p>
             <button type="button" class="green-button" onclick="toggleDocument('manual', this)">
                 <i class="bx bx-chevron-right" style="padding-right:2px"></i>
             </button>
             <div id="manual" style="display: none;">
                 <img src="{{ asset('assets/img/manual-cover.png') }}" alt="" style="width:22%;" class="mt-2"><br>
-                <button type="button" src="" class="green-button mt-2">Download</button>
+                <a target="_blank" href="https://drive.google.com/drive/folders/1HVR66tpQo0-G-cvcUU1KrhXxvXyX25y8?usp=sharing">
+                    <button type="button" class="green-button mt-2">Download</button>
+                </a>
             </div>
         </div>
     </div>

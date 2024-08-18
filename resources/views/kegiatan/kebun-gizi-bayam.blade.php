@@ -65,7 +65,7 @@
                                 </a>
                             </li>
                         </div> -->
-                        <li><strong>Prestasi</strong>: Juara 3 Kebun Gizi </li>
+                        <li><strong>Prestasi</strong>: Juara 3 Lomba Kebun Gizi PKK Induk Desa Kismoyoso</li>
                         <!-- <h3 style="padding-top:20px;">Paguyuban Kebun Gizi</h3>
                         <div class="d-flex">
                             <button class="green-button">

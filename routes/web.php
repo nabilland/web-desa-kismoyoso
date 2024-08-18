@@ -55,6 +55,9 @@ Route::get('/pendidikan-penduduk', function () {
 Route::get('/komposisi-penduduk', function () {
     return view('penduduk.komposisi');
 })->name('komposisi-penduduk');
+Route::get('/distribusi-penduduk', function () {
+    return view('penduduk.distribusi');
+})->name('distribusi-penduduk');
 Route::get('/mutasi-penduduk', function () {
     return view('penduduk.mutasi');
 })->name('mutasi-penduduk');
@@ -71,7 +74,7 @@ Route::get('/potensi/perkebunan', function () {
 })->name('potensi-perkebunan');
 
 // UMKM
-Route::get('/#portfolio', function () {
+Route::get('/#umkm', function () {
 })->name('umkm');
 Route::get('/umkm/jamu-gendong', function () {
     return view('umkm.jamu-gendong');

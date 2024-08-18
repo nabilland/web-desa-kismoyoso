@@ -82,7 +82,7 @@
                                     });
                                     var link = document.createElement('a');
                                     link.href = imgURL;
-                                    link.download = 'Diagram Komposisi Penduduk Desa Kismoyoso.png';
+                                    link.download = 'Diagram Mutasi Penduduk Desa Kismoyoso.png';
                                     link.click();
                                 });
                             });
@@ -97,7 +97,7 @@
                         <li><b>Datang,</b> berasal dari daearah lain.</li>
                         <li>Karena <b> Keluarga</b></li>
                         <li><b>Pindah</b> tempat tinggal ke daerah lain.</li>
-                        <li><b> Meninggal dunia</b> disebabkan karena : 
+                        <li><b> Meninggal dunia</b> disebabkan karena :
                         <ul>
                             <li><b>Usia</b></li>
                             <li><b> Penyakit</b></li>

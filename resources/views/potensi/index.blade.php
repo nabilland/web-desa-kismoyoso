@@ -41,11 +41,13 @@
             </div> -->
 
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                <div class="box">
-                    <span>02</span>
-                    <h4>UMKM</h4>
-                    <p>UMKM di Desa Kismoyoso mencakup berbagai jenis usaha rumahan seperti jamu gendong, tauge, tahu, dan lainnya, yang mampu meningkatkan perekonomian desa serta menciptakan lapangan kerja bagi penduduk lokal.</p>
-                </div>
+                <a href="{{ route('umkm') }}">
+                    <div class="box">
+                        <span>02</span>
+                        <h4>UMKM</h4>
+                        <p>UMKM di Desa Kismoyoso mencakup berbagai jenis usaha rumahan seperti jamu gendong, tauge, tahu, dan lainnya, yang mampu meningkatkan perekonomian desa serta menciptakan lapangan kerja bagi penduduk lokal.</p>
+                    </div>
+                </a>
             </div>
         </div>
     </div>

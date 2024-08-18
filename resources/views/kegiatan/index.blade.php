@@ -4,7 +4,7 @@
 <h2>Potensi Desa</h2>
 <ol>
     <li><a href="{{ route('index') }}">Beranda</a></li>
-    <li>Kegiatan</li>
+    <li>Program Sosial</li>
     <li>Kebun Gizi</li>
 </ol>
 @endsection
@@ -38,7 +38,7 @@
                         <h4>Kebun Gizi Sawi</h4>
                         <p> Kebun Gizi ini berdiri sejak akhir 2022. Kebun ini berlokasi di Tegalan RT 003/RW 001. Kebun Gizi ini dinaungi oleh PKK Sentosa Makmur</p>
                         <br>
-                    </div> 
+                    </div>
                 </a>
             </div>
 
